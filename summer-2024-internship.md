@@ -9,7 +9,7 @@ The specific project you will work on will be determined in close consultation w
 The four software packages that are currently in development at CCN are: 
 
 ### Nemos
-nemos (Neural Models: https://github.com/flatironinstitute/nemos), maintained by Eduardo Balzani, is a statistical modeling framework for neurophysiology data. 
+nemos (Neural Models: https://github.com/flatironinstitute/nemos), maintained by Edoardo Balzani, is a statistical modeling framework for neurophysiology data. 
 
 ### Plenoptic
 Plenoptic (https://github.com/LabForComputationalVision/plenoptic), maintained by Billy Broderick, is a library for model-based visual and auditory stimulus synthesis. 
