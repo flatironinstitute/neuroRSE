@@ -36,10 +36,6 @@ jobs:
         with:
           ruby-version: '3.2'
           bundler-cache: true
-      - uses: actions/setup-python@v4
-      - name: Install python dependencies
-        run: |
-          pip install click tqdm
       - name: Build with Jekyll
         run: |
           bundle exec jekyll build --verbose -s ./ -d ./_site
