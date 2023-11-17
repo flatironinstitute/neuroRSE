@@ -1,6 +1,11 @@
-# ccn-rse
+# neuroRSE
 
-Website for CCN RSE group
+Website for Flatiron CCN's NeuroRSE group
+
+## Some notes
+
+- The "Posts" section contains all the files from `site/_posts` whose names are
+  of the form `YYYY-MM-DD-title.md`.
 
 ## Building locally
 
