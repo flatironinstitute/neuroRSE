@@ -20,7 +20,7 @@
 
 title: NeuroRSE
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "neuroRSE/"
+baseurl: "/neuroRSE"
 url: "https://flatironinstitute.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
