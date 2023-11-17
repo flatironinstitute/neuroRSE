@@ -1,4 +1,8 @@
-# Neuroscience Software Summer Internship
+---
+layout: post
+title: "Neuroscience Software Summer Internship"
+categories: events
+---
 
 Come work with us on an open source neuroscience software package in Manhattan for a summer! The [data science team] at the Flatiron Institute Center for Computational Neuroscience is looking for paid interns for Summer 2024. Interns will spend 11 weeks living and working in New York City.
 
