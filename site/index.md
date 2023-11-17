@@ -7,12 +7,11 @@ layout: home
 
 # About
 
-The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience
-builds and maintains open source software for computational and systems
-neuroscience. We intend to create solid packages that can be relied and built
-upon, rather than chasing cutting-edge research.
+The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience builds and maintains open source software for computational and systems neuroscience. We intend to create solid packages that can be relied and built upon, rather than chasing cutting-edge research.
 
 # Our projects
+
+All of our projects are open-source python packages. We are always happy to get external contributors and happy to help new users get started!
 
 ## [CaImAn](https://github.com/flatironinstitute/CaImAn)
 
@@ -30,18 +29,17 @@ plenoptic is a python library for model-based synthesis of perceptual stimuli. T
 
 pynapple is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). It also provides users with generic functions for neuroscience such as tuning curves and cross-correlograms.
 
+## [CCN Template](https://github.com/flatironinstitute/ccn-template/)
+
+The CCN Template repo is not an actual python package, but an attempt to make and document all the many decisions that go into writing open-source python packages: structure, packaging, documentation, testing, etc. This is largely intended for our use, but hope it can serve as a resource for the broader community!
+
 # Members
 
 ## Edoardo Balzani
 ## [Billy Broderick](https://wfbroderick.com)
 
-Billy Broderick received his Ph.D. from NYU's Center for Neural Science, where
-he was advised by Eero Simoncelli and Jon Winawer. During his Ph.D., he studied
-how vision changes across the visual field using fMRI, psychophysics, and
-computational models. Before that, he worked as a research assistant at Duke
-University, spent a year at South China Normal University in Guangzhou, China as
-a [Luce Scholar](http://www.hluce.org/lsprogram.aspx), and got his B.A. in
-neuroscience and mathematics at Oberlin College
+Billy Broderick received his Ph.D. from NYU's Center for Neural Science, where he was advised by Eero Simoncelli and Jon Winawer. During his Ph.D., he studied how vision changes across the visual field using fMRI, psychophysics, and computational models. Before that, he worked as a research assistant at Duke University, spent a year at South China Normal University in Guangzhou, China as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx), and got his B.A. in neuroscience and mathematics at Oberlin College
+
 
 ## Eric Thomson
 ## Guillaume Viejo
