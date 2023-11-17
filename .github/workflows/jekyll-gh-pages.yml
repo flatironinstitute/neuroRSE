@@ -40,10 +40,6 @@ jobs:
       - name: Install python dependencies
         run: |
           pip install click tqdm
-      - name: Download and check assets
-        run: |
-          python osf_files.py download all
-          python osf_files.py check-assets all
       - name: Build with Jekyll
         run: |
           bundle exec jekyll build --verbose -s ./ -d ./_site
