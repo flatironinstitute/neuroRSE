@@ -4,8 +4,8 @@ Website for Flatiron CCN's NeuroRSE group
 
 ## Some notes
 
-- The "Posts" section contains all the files from `site/_posts` whose names are
-  of the form `YYYY-MM-DD-title.md`.
+- The "Posts" section contains all the files from `site/_posts` whose names must
+  be of the form `YYYY-MM-DD-title.md` in order to be included in the built site.
 
 ## Building locally
 
