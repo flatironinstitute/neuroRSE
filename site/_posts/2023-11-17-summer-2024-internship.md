@@ -25,7 +25,7 @@ The four software packages that are currently in development at CCN are:
 [CaImAn](https://github.com/flatironinstitute/CaImAn) (Calcium Imaging Analysis), maintained by Eric Thomson, provides a platform for analyzing calcium and voltage imaging data. 
 
 ## What types of background are we looking for?
-We are looking for interns who have experience in one or more of: 
+We are looking for interns who have experience in at least one of: 
 
 - Using Python packages for scientific computing (e.g., matplotlib, numpy, scikit-learn, etc.).
 - Open-source software development (e.g., git, pull request workflow, writing documentation, etc.).
