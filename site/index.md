@@ -25,7 +25,7 @@ A statistical modeling framework for systems neuroscience. Nemos currently focus
 
 plenoptic is a python library for model-based synthesis of perceptual stimuli. The generated stimuli enable interpretation of model properties through examination of features that are enhanced, suppressed, or descarded. More importantly, they can facilitate the scientific proceess, through use in perceptual or neural experiments aimed at validating/falsifying model predictions.
 
-## [pynapple](https://github.com/pynapple-org/pynapple)
+## [pynapple](https://pynapple-org.github.io/pynapple/)
 
 pynapple is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). It also provides users with generic functions for neuroscience such as tuning curves and cross-correlograms.
 
@@ -42,4 +42,6 @@ Billy Broderick received his Ph.D. from NYU's Center for Neural Science, where h
 
 
 ## Eric Thomson
-## Guillaume Viejo
+## [Guillaume Viejo](https://www.simonsfoundation.org/people/guillaume-viejo/)
+
+Guillaume Viejo joined the Center for Computational Neuroscience as a data scientist, where he focuses on developing software for analyzing neurophysiological data. He holds a Ph.D. in computational neuroscience from the Institute of Intelligent Systems and Robotics at the Pierre and Marie Curie University in Paris, France. After completing his doctorate, Guillaume worked as a postdoctoral fellow at the Montreal Neurological Institute, where he studied the head-direction system (also known as the brain’s compass) in rodents.
