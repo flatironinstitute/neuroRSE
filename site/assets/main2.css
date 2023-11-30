@@ -286,16 +286,16 @@ table {
 
   display: flex;
   justify-content: center;
+}
 
-  & div {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
+.site-header div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
-  & img {
-    height: 30px;
-  }
+.site-header img {
+  height: 30px;
 }
 
 .site-title {
@@ -440,4 +440,7 @@ project-card {
       grid-column: span 2;
     }
   }
+}
+
+.sidebar-wrapper {
 }
