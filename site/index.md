@@ -9,6 +9,8 @@ layout: home
 
 The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience builds and maintains open source software for computational and systems neuroscience. We intend to create solid packages that can be relied and built upon, rather than chasing cutting-edge research.
 
+{% include posts.html %}
+
 # Our Projects
 
 All of our projects are open-source python packages. We are always happy to get external contributors and happy to help new users get started!
