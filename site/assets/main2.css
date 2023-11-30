@@ -418,8 +418,10 @@ table {
 project-list {
   display: grid;
   grid-gap: 2rem;
+}
 
-  @media (min-width: 800px) {
+@media (min-width: 800px) {
+  project-list {
     grid-template-columns: repeat(2, 1fr);
   }
 }
