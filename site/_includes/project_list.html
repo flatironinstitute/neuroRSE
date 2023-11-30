@@ -1,0 +1,16 @@
+<div style="height: 2rem"></div>
+
+<project-list>
+  {% for project in site.projects %}
+  <project-card class="{{ project.class }}">
+    <h2>
+      {%- if project.external_url -%}
+      <a href="{{ project.external_url }}">{{ project.title }}</a>
+      {%- else -%} {{ project.title }} {%- endif -%}
+    </h2>
+    <div>{{ project.content }}</div>
+  </project-card>
+  {% endfor %}
+</project-list>
+
+<div style="height: 2rem"></div>
