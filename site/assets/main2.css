@@ -279,8 +279,9 @@ table {
  * Site header
  */
 .site-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
   border-top: 5px solid white;
-  min-height: calc(var(--spacing-unit) * 1.865);
   background-color: var(--sf-ccn-theme);
 
   display: flex;
@@ -298,14 +299,11 @@ table {
 }
 
 .site-title {
-  font-size: calc(var(--base-font-size) * 1.625);
+  font-size: 1.6rem;
   font-weight: 300;
-  line-height: calc(var(--base-line-height) * var(--base-font-size) * 2.25);
+  line-height: 1.3;
   letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left;
   color: white;
-
   &:visited {
     color: white;
   }
