@@ -41,4 +41,4 @@ We *do not* expect you to already be an expert in both neuroscience and software
 Elibigle to current students at Bachelor's level or above. Applications will be accepted starting December 1, 2023. You will be paid $20 - $28.85 per hour, depending on whether you are an undergraduate or graduate student. Travel, housing, and meals will be provided for all interns. We especially encourage applications from underrepresented populations in the open-source community. 
 
 ## To apply
-To submit an application (starting December 1, 2023), please visit [the Simons website](https://apply.interfolio.com/137388))
+To submit an application (starting December 1, 2023), please visit [the Simons website](https://apply.interfolio.com/137388).
