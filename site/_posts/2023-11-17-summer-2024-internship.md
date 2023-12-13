@@ -4,7 +4,7 @@ title: "Neuroscience Software Summer Internship"
 categories: events
 ---
 
-Come work with us on an open source neuroscience software package in Manhattan for a summer! The  [NeuroRSE team](https://neurorse.flatironinstitute.org/) at the Flatiron Institute Center for Computational Neuroscience is looking for paid interns for Summer 2024. Interns will spend the summer living and working in New York City.
+Come work with us on an open source neuroscience software package in Manhattan for a summer! The  [NeuroRSE team](https://neurorse.flatironinstitute.org/) at the Flatiron Institute Center for Computational Neuroscience is looking for paid interns for Summer 2024. Interns will spend the summer living and working in New York City. [View the applications here.](https://apply.interfolio.com/137388)
 
 ## What would you work on?
 The specific project you will work on will be determined in close consultation with your mentor, a member of the NeuroRSE team. This process will involve finding a good fit between your interests/background and the goals set out in the roadmap for the package you are working on. You can check out the GitHub repositories for each package below to get a sense of the range of possibilities. It is okay if you are not sure exactly what you want to work on before you start; we do not expect applicants to have experience with the packages before applying. 
