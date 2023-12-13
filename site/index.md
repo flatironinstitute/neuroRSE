@@ -9,7 +9,7 @@ layout: home
 
 The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience builds and maintains open source software for computational and systems neuroscience. We intend to create solid packages that can be relied and built upon, rather than chasing cutting-edge research.
 
-**What is an RSE?** A "research software engineer", which is defined by the [US-RSE professional organization](https://us-rse.org/about/what-is-an-rse/) as: "[someone] who regularly use expertise in programming to advance research".
+**What does RSE mean?** A "research software engineer", which is defined by the [US-RSE professional organization](https://us-rse.org/about/what-is-an-rse/) as someone "who regularly use expertise in programming to advance research".
 
 {% include posts.html %}
 
