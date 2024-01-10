@@ -13,6 +13,10 @@ The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience b
 
 {% include posts.html %}
 
+# Workshops
+
+- [nemos February 2024](https://flatironinstitute.github.io/nemos-workshop-feb-2024/)
+
 # Our Projects
 
 All of our projects are open-source python packages. We are always happy to get external contributors and happy to help new users get started!

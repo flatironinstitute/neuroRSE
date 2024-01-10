@@ -353,11 +353,6 @@ table {
   font-size: calc(var(--base-font-size) * 1.25);
 }
 
-.post-list-heading {
-  /* @include relative-font-size(1.75); */
-  font-size: calc(var(--base-font-size) * 1.75);
-}
-
 .post-list {
   margin-left: 0;
   list-style: none;
