@@ -15,7 +15,7 @@ The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience b
 
 # Workshops
 
-- [nemos February 2024](https://flatironinstitute.github.io/nemos-workshop-feb-2024/)
+- [nemos February 2024](https://nemos-workshop-feb-2024.readthedocs.io/en/latest/)
 
 # Our Projects
 
