@@ -11,3 +11,5 @@ coverage
 
 # jekyll build directory
 _site/
+
+/ignored
