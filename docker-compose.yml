@@ -1,0 +1,9 @@
+# This is just for the purpose of local development
+services:
+  jekyll:
+    image: jekyll/minimal
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+    command: jekyll serve --incremental --watch --force_polling --trace
