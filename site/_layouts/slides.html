@@ -11,34 +11,60 @@
 
     <link rel="stylesheet" href="/assets/reveal.js/dist/reset.css" />
     <link rel="stylesheet" href="/assets/reveal.js/dist/reveal.css" />
-    <link rel="stylesheet" href="/assets/reveal.js/dist/theme/white.css" />
     <link
       rel="stylesheet"
       href="/assets/reveal.js/plugin/highlight/zenburn.css"
     />
-    <link rel="stylesheet" href="/assets/slides.css" />
-  </head>
-  <body>
-    <div class="reveal">
-      <div class="slides">
-        <section data-markdown="{{ page.markdown }}"></section>
-      </div>
-    </div>
+    <link rel="stylesheet" href="/assets/flatiron-slides.css" />
 
     <script src="/assets/reveal.js/dist/reveal.js"></script>
     <script src="/assets/reveal.js/plugin/notes/notes.js"></script>
     <script src="/assets/reveal.js/plugin/markdown/markdown.js"></script>
     <script src="/assets/reveal.js/plugin/highlight/highlight.js"></script>
     <script src="/assets/reveal.js/plugin/math/math.js"></script>
+
+    <!-- needed for builds from svg images: https://github.com/rajgoel/reveal.js-plugins/tree/master/animate -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.min.js"></script>
+    <script src="/assets/reveal.js-plugins/loadcontent/plugin.js"></script>
+    <script src="/assets/reveal.js-plugins/animate/plugin.js"></script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="{{ page.markdown }}"
+          data-separator="^\n---"
+          data-separator-vertical="^\n--"
+          data-separator-notes="^#note:"></section>
+      </div>
+    </div>
     <script>
-      Reveal.initialize({
-        plugins: [
-          RevealMarkdown,
-          RevealHighlight,
-          RevealNotes,
-          RevealMath.KaTeX,
-        ],
-      });
+     Reveal.initialize({
+       plugins: [
+         RevealMarkdown,
+         RevealHighlight,
+         RevealNotes,
+         RevealMath.KaTeX,
+         RevealLoadContent,
+         RevealAnimate,
+       ],
+       controls: false,
+       controlsTutorial: false,
+       slideNumber: true,
+       jumpToSlide: true,
+       width: 1920,
+       height: 1176,
+       margin: 0.10,
+       minScale: 0.50,
+       maxScale: 2.50,
+       fragmentInURL: true,
+       zoomLevel: 3,
+       center: false,
+       touch: true,
+       transition: 'none',
+       progress: true,
+       display: 'block',
+     });
     </script>
   </body>
 </html>

@@ -1,6 +1,0 @@
-body:before {
-  content: url('/assets/01-FI-primary-logo-color-small.png');
-  position: fixed;
-  bottom: 30px;
-  left: 12px;
-}
