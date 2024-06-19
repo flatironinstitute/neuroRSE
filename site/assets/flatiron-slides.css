@@ -38,8 +38,6 @@ body {
 .reveal .slides {
 	width: 100%;
 	height: 100%;
-	top: 0;
-	margin-top: 2%;
   text-align: left;
 }
 
@@ -47,6 +45,8 @@ body {
 .reveal .slides section > section {
   line-height: 1.3;
   font-weight: inherit;
+  height: inherit;
+  flex-direction: column;
 }
 .landing {
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
@@ -64,7 +64,7 @@ body {
 .reveal h5,
 .reveal h6 {
   text-align: center;
-  margin: 0 0 20px 0;
+  margin: 2% 0 20px 0;
   color: #007f9dff;
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-weight: normal;
@@ -95,6 +95,8 @@ body {
 }
 
 /* Ensure certain elements are never larger than the slide itself */
+.reveal img,
+.reveal video,
 .reveal iframe {
   max-width: 95%;
   max-height: 95%;
@@ -282,14 +284,20 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
+
+.reveal p:has(> img) {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
 .reveal section img {
   background: rgba(255, 255, 255, 0.12);
   display:block;
   margin:0;
   margin-left:auto;
   margin-right:auto;
-  height: 100%;
-  width: 100%;
 }
 
 .reveal section img.plain {
