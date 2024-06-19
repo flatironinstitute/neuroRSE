@@ -20,7 +20,7 @@ This website contains links to the presentations for the workshop, as well as to
     - pynapple: [documentation](https://pynapple-org.github.io/pynapple/), [github repo](https://github.com/pynapple-org/pynapple)
     - fastplotlib: [documentation](https://fastplotlib.readthedocs.io/en/latest/), [github repo](https://github.com/fastplotlib/fastplotlib)
     - NeMoS: [documentation](https://nemos.readthedocs.io/en/latest/), [github repo](https://github.com/flatironinstitute/nemos)
-- We strongly recommend the use of the Neurodata Without Borders standard for structuring your data; this will make the use of our packages (and others!) much easier, both in and out of the workshop. More info can be found at the following links:
+- We strongly recommend the use of the Neurodata Without Borders (NWB) standard for structuring your data; this will make the use of our packages (and others!) much easier, both in and out of the workshop. More info can be found at the following links:
     - [PyNWB](https://pynwb.readthedocs.io/en/latest/)
     - Tools for converting data into NWB: [NeuroConv](https://neuroconv.readthedocs.io/en/main/) (python library) and [NWB GUIDE](https://nwb-guide.readthedocs.io/en/latest/) (GUI)
     - [NWB Helpdesk](https://github.com/NeurodataWithoutBorders/helpdesk/discussions), to get help!
