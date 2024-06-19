@@ -96,6 +96,7 @@ body {
 
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
+.reveal svg,
 .reveal video,
 .reveal iframe {
   max-width: 95%;
@@ -285,6 +286,7 @@ body {
  * IMAGES
  *********************************************/
 
+.reveal div:has(> svg),
 .reveal p:has(> img) {
   margin-top: 0;
   display: flex;
@@ -292,6 +294,7 @@ body {
   height: 100%;
 }
 
+.reveal section svg,
 .reveal section img {
   background: rgba(255, 255, 255, 0.12);
   display:block;
