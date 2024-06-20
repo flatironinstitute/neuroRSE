@@ -14,7 +14,6 @@
 ---
 
 <div data-animate data-load="https://users.flatironinstitute.org/~wbroderick/presentations_assets/fens-2024/allen_data.svg" crossorigin="anonymous">
-<!-- <div data-animate data-load="/assets/fens_images/allen_data.svg" > -->
 <!-- {"setup": [
 {"element": "#rect712", "modifier": "attr", "parameters": [ {"class": "fragment appear-disappear", "data-fragment-index": "0"} ]},
 {"element": "#rect1342", "modifier": "attr", "parameters": [ {"class": "fragment appear-disappear", "data-fragment-index": "1"} ]},
