@@ -81,6 +81,11 @@ body {
   margin-top: 20%;
 }
 
+.reveal h2:not(:has(+ p, + div)) {
+  text-shadow: none;
+  margin-bottom: 5%;
+  margin-top: 20%;
+}
 /*********************************************
  * OTHER
  *********************************************/
@@ -296,6 +301,15 @@ body {
   display: flex;
   align-items: center;
   height: 100%;
+}
+
+/* slide titles are almost always h2 */
+.reveal h2 + div:has(> svg),
+.reveal h2 + p:has(> img) {
+  margin-top: 0;
+  display: flex;
+  align-items: start;
+  height: 90%;
 }
 
 .reveal section svg,
