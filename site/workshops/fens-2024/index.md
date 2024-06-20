@@ -34,7 +34,7 @@ Before the workshop begins:
 ## Presentations, in chronological order
 
 - Welcome, Billy Broderick (slides coming soon!)
-- Neurodata Without Borders, Oliver Rübel (slides coming soon!)
+- [Neurodata Without Borders](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/2024_06_22_CCN_at_FENS_NWB_Ruebel.pdf), Oliver Rübel
 - Intro to Pynapple, Guillaume Viejo (slides coming soon!)
 - [Ultrafast interative visualizations with fastplotlib](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/fastplotlib-fens.pdf), Caitlin Lewis
 - [A conceptual introduction to Generalized Linear Models](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/glm_intro_FENS_2024.pdf), Edoardo Balzani
