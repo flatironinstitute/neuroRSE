@@ -92,7 +92,7 @@ And we'll again finish the day with a hackathon. we'll have some advanced concep
 our dinner tomorrow will be offsite, so please let one of the admin, either Jessica or Deb, know if you won't be joining for any reason.
 
 ---
-## The one link to rule them all
+## one link to rule them all
 
 [https://neurorse.flatironinstitute.org/workshops/fens-2024/](https://neurorse.flatironinstitute.org/workshops/fens-2024/)
 
