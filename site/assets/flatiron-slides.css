@@ -81,7 +81,7 @@ body {
   margin-top: 20%;
 }
 
-.reveal h2:not(:has(+ p, + div, + ul, + ol, + dl)) {
+.reveal h2:not(:has(+ p, + div, + ul, + ol, + dl)):not(h1 + h2, h2 + h2) {
   text-shadow: none;
   margin-bottom: 5%;
   margin-top: 20%;
