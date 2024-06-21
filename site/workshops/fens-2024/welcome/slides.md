@@ -4,7 +4,11 @@
 
 #note: welcome everyone to the first CCN software workshop! we're excited to have you here. I'm Billy Broderick, part of the team at CCN, and I'm going to briefly introduce our team and the center, before having the speakers and TAs introduce themselves. then we'll go around and have everyone introduce themselves. I'll finish up by giving an overview of our schedule, and then we'll get started!
 
-but before all that --- has everyone run setup.py?
+but before all that --- couple quick notes:
+
+- we're planning on taking some photos at this workshop, which we'll post on twitter or our websites. if you don't want your photo included there, just let one of us know
+- has everyone run setup.py?
+- notes from Jess
 
 ---
 
@@ -15,7 +19,6 @@ but before all that --- has everyone run setup.py?
 {"element": "#g715", "modifier": "attr", "parameters": [ {"class": "fragment appear-disappear", "data-fragment-index": "0"} ]}
 ]} -->
 </div>
-![image](assets/)
 
 #note: so apologies to those who know already, but I thought I'd take a moment to explain who we are. We are employees of the Flatiron Institute. If you've heard "Flatiron" before, you're probably thinking of this iconic building in Manhattan, the Flatiron Building
 
