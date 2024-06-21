@@ -6,7 +6,7 @@ layout: home
 
 # Flatiron CCN Software Workshop at FENS 2024
 
-We are excited to see everyone at the Flatiron Center for Computational Neuroscience FENS Satellite event on using open source packages to analyze and visualize neural data! You should have received an email with logistical information, including the schedule and link to the slack channel where we will be communicating the workshop. If you did not receive this email, please let us know!
+We are excited to see everyone at the Flatiron Center for Computational Neuroscience FENS Satellite event on using open source packages to analyze and visualize neural data!
 
 Over the course of this two-day workshop, we will walk you through the notebooks included on this site in order to demonstrate how to use pynapple, fastplotlib, and NeMoS to analyze and visualize your data.
 
@@ -40,3 +40,4 @@ Before the workshop begins:
 - [Ultrafast interative visualizations with fastplotlib](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/fastplotlib-fens.pdf), Caitlin Lewis
 - [A conceptual introduction to Generalized Linear Models](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/glm_intro_FENS_2024.pdf), Edoardo Balzani
 - [Basic Generalized Linear Models with NeMoS](current_injection), Billy Broderick
+- [Conclusion](conclusion), Billy Broderick

@@ -4,6 +4,8 @@
 
 #note: welcome everyone to the first CCN software workshop! we're excited to have you here. I'm Billy Broderick, part of the team at CCN, and I'm going to briefly introduce our team and the center, before having the speakers and TAs introduce themselves. then we'll go around and have everyone introduce themselves. I'll finish up by giving an overview of our schedule, and then we'll get started!
 
+but before all that --- has everyone run setup.py?
+
 ---
 
 ## What is Flatiron?
