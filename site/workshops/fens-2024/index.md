@@ -33,11 +33,11 @@ Before the workshop begins:
 
 ## Presentations, in chronological order
 
-- [Welcome](welcome), Billy Broderick
+- [Welcome](welcome), Billy Broderick ([pdf slides](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/welcome.pdf) if html won't load)
 - [Neurodata Without Borders](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/2024_06_22_CCN_at_FENS_NWB_Ruebel.pdf), Oliver Rübel
 - [Introduction to Pynapple Core](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/Introduction%20to%20pynapple%20core.pdf), Guillaume Viejo
 - [Data analysis with pynapple](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/Data%20analysis%20with%20pynapple.pdf), Guillaume Viejo
 - [Ultrafast interative visualizations with fastplotlib](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/fastplotlib-fens.pdf), Caitlin Lewis
 - [A conceptual introduction to Generalized Linear Models](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/glm_intro_FENS_2024.pdf), Edoardo Balzani
-- [Basic Generalized Linear Models with NeMoS](current_injection), Billy Broderick
-- [Conclusion](conclusion), Billy Broderick
+- [Basic Generalized Linear Models with NeMoS](current_injection), Billy Broderick ([pdf slides](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/current_injection.pdf) if html won't load)
+- [Conclusion](conclusion), Billy Broderick ([pdf slides](https://users.flatironinstitute.org/~wbroderick/presentations/fens-2024/conclusion.pdf) if html won't load)
