@@ -50,3 +50,13 @@ Syntax notes for the markdown:
     ```
 
 See `site/workdshops/fens-2024/welcome/` for an example, and ask Billy if you have any questions.
+
+### Styling
+
+The css files `flatiron-slides.css` controls the styling of the slides. My goal for the styling is described below. If you find a case where the following isn't followed, please change the css. If you disagree with my choices, then we can split up the css files as needed.
+
+- Level one headers (`# Like this`) should be centered, as should any header on a slide with only headers.
+- Headers beyond level one should be at the top of the slide.
+- There should be almost no gap between the header and images, but there should be a gap before text.
+- Text should be left justified and aligned at the top.
+- Images should be centered vertically and horizontally in the space remaining (after headers / any text).
