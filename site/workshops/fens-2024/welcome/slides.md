@@ -7,7 +7,7 @@
 but before all that --- couple quick notes:
 
 - we're planning on taking some photos at this workshop, which we'll post on twitter or our websites. if you don't want your photo included there, just let one of us know
-- has everyone run setup.py?
+- has everyone run setup.py? did they see my slack message yesterday about `pip install -e .`?
 - notes from Jess
 
 ---
