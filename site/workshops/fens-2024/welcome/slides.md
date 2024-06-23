@@ -12,6 +12,16 @@ but before all that --- couple quick notes:
 
 ---
 
+## Everyone installed and ready to go?
+
+```
+cd path/to/ccn-software-fens-2024
+git pull
+pip install -e .
+```
+
+---
+
 ## What is Flatiron?
 
 <div data-animate data-load="https://users.flatironinstitute.org/~wbroderick/presentations_assets/fens-2024/flatiron.svg" crossorigin="anonymous">
@@ -52,6 +62,13 @@ but before all that --- couple quick notes:
 ![image](https://users.flatironinstitute.org/~wbroderick/presentations_assets/fens-2024/neurorse.png)
 
 #note: And most of the speakers you're going to hear from over the next two days are from the neuroRSE, or research software engineering, group within CCN. We're a group of full time research scientists whose only job is to build and maintain open source python packages for neuroscience research, including pynapple and nemos.
+
+---
+## CCN Software packages
+
+![image](https://users.flatironinstitute.org/~wbroderick/presentations_assets/fens-2024/software-packages.png)
+
+#note: 
 
 ---
 ## Workshop staff
