@@ -17,9 +17,9 @@ This website contains links to the presentations for the workshop, as well as to
 - [Workshop schedule](https://indd.adobe.com/view/b2801079-d3e8-4dfb-80bd-92ca5806bc6a)
 - [Github site](https://flatironinstitute.github.io/ccn-software-fens-2024/)
 - Websites for the packages used in this workshop:
-    - pynapple: [documentation](https://pynapple-org.github.io/pynapple/), [github repo](https://github.com/pynapple-org/pynapple)
+    - pynapple: [documentation](https://pynapple-org.github.io/pynapple/), [github repo](https://github.com/pynapple-org/pynapple), [twitter](https://x.com/thepynapple)
     - fastplotlib: [documentation](https://fastplotlib.readthedocs.io/en/latest/), [github repo](https://github.com/fastplotlib/fastplotlib)
-    - NeMoS: [documentation](https://nemos.readthedocs.io/en/latest/), [github repo](https://github.com/flatironinstitute/nemos)
+    - NeMoS: [documentation](https://nemos.readthedocs.io/en/latest/), [github repo](https://github.com/flatironinstitute/nemos), [twitter](https://x.com/nemos_neuro)
 - We strongly recommend the use of the Neurodata Without Borders (NWB) standard for structuring your data; this will make the use of our packages (and others!) much easier, both in and out of the workshop. More info can be found at the following links:
     - [PyNWB](https://pynwb.readthedocs.io/en/latest/)
     - Tools for converting data into NWB: [NeuroConv](https://neuroconv.readthedocs.io/en/main/) (python library) and [NWB GUIDE](https://nwb-guide.readthedocs.io/en/latest/) (GUI)
