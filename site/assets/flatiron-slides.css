@@ -48,6 +48,9 @@ body {
   height: inherit;
   flex-direction: column;
 }
+.reveal .slides section:has(> .column) {
+  display: block !important;
+}
 .landing {
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-weight: normal;
@@ -81,7 +84,7 @@ body {
   margin-top: 20%;
 }
 
-.reveal h2:not(:has(+ p, + div, + ul, + ol, + dl)):not(h1 + h2, h2 + h2) {
+.reveal h2:not(:has(~ p, ~ div, ~ ul, ~ ol, ~ dl)):not(h1 + h2, h2 + h2) {
   text-shadow: none;
   margin-bottom: 5%;
   margin-top: 20%;
@@ -310,8 +313,8 @@ body {
 }
 
 /* slide titles are almost always h2 */
-.reveal h2 + div:has(> svg),
-.reveal h2 + p:has(> img) {
+.reveal h2 ~ div:has(> svg),
+.reveal h2 ~ p:has(> img) {
   margin-top: 0;
   display: flex;
   align-items: start;
