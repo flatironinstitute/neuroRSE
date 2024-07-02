@@ -11,6 +11,10 @@ while [ $t -gt 0 ]; do
       t=$(($t-1))
 done
 
+echo "After screenshow, hit Ctrl+C to cancel, then delete the extra screenshots and then run the following in bash"
+echo "for name in $1/*.png; do convert $name $1/`basename $name .png`.pdf; done"
+echo "pdftk $1/*.pdf cat output Presentation.pdf"
+
 i=1000000
 pause=1
 while true; do
