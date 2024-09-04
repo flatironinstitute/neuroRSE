@@ -57,22 +57,24 @@ Guillaume Viejo joined the Center for Computational Neuroscience as a data scien
 
 # Interns
 
-## Bence Bagi
+## 2024
+
+### Bence Bagi
 
 <img src="./assets/bagi.png" align="right" style="padding:0px 0px 0px 15px" width="100"/>
 Bence is currently a Ph.D. student at Imperial College London, under the supervision of Juan Gallego. In his research he relies on data analysis and computational modeling to investigate how neural populations give rise to skilled movement. Before his Ph.D., he completed his master's at the Bernstein Center for Computational Neuroscience (BCCN) Berlin.
 
-## [Hanna Dettki](https://www.notion.so/haannaa/Hanna-D-efc816633dc84f1d86bd0da6efbddf5a?pvs=4)
+### [Hanna Dettki](https://www.notion.so/haannaa/Hanna-D-efc816633dc84f1d86bd0da6efbddf5a?pvs=4)
 
 <img src="./assets/hanna.jpg" align="right" style="padding:0px 0px 0px 15px" width="100"/>
 Hanna is a Master’s student in psychology at New York University and in computer science at the University of Tuebingen, Germany. She’s interested in both human and artificial intelligence and how to bridge the gap between the two. Specifically, she is interested in using computational methods to model and better understand the complexities of our mind, brain, and behavior. Prior to starting her Master’s degree at NYU on a Fulbright scholarship, she studied cognitive and computer science at the National Cheng Kung University, Taiwan, Hong Kong University, and the University of Tuebingen, where she received her B.Sc.
 
-## Kipp Freud
+### Kipp Freud
 
 <img src="./assets/kipp.png" align="right" style="padding:0px 0px 0px 15px" width="100"/>
 Kipp is currently undertaking a PhD within the Computational Neuroscience Unit at the University of Bristol, where he is supervised by Cian O'Donnell, Matt W. Jones, and Nathan Lepora. His research examines spatial and navigational respresentations in the hippocampus, and how and why these representations change over time. At Flatiron, Kipp is developing signal processing tools for pynapple to expand it's utility for analysis of local field potential data.
 
-## Caitlin Lewis
+### Caitlin Lewis
 
 <img src="./assets/caitlin.png" align="right" style="padding:0px 0px 0px 15px" width="100"/>
 Caitlin received her B.S. in Computer Science and Statistics from UNC Chapel Hill. During this time she worked as an Undergraduate Research Assistant in the lab of Dr. Adam Hantman - where she helped to develop software tools for calcium imaging analysis and automated behavioral classification. She is also the co-developer of fastplotlib, a cutting-edge scientific visualization library. Caitlin will begin pursuing her PhD in Electrical and Computer Engineering this coming Fall at Duke University in the lab of Dr. John Pearson.
