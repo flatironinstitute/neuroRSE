@@ -3,10 +3,16 @@
 <project-list>
   {% for project in site.projects %}
   <project-card class="{{ project.class }}">
-    <h2>
-      {%- if project.external_url -%}
+    <h2 style="display:flex;align-items:center;justify-content:space-around">
+      {%- if project.logo -%}
+      <a href="{{ project.external_url }}">
+        <img src="{{ project.logo }}" align="left"  height="80"/>
+      </a>
+      {%- elsif project.external_url -%}
       <a href="{{ project.external_url }}">{{ project.title }}</a>
-      {%- else -%} {{ project.title }} {%- endif -%}
+      {%- else -%}
+      {{ project.title }}
+      {%- endif -%}
     </h2>
     <div>{{ project.content }}</div>
   </project-card>
