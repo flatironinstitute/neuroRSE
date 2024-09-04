@@ -62,7 +62,8 @@ To get a sense of the material we will cover, see our [workshop from FENS 2024](
 | 2 -- 2:30pm     | Standard analyses in systems neuroscience with pynapple         |
 | 2:30 -- 3:30pm  | Exercise: analyzing real neuroscience data with pynapple        |
 | 3:30 -- 4pm     | Coffee break                                                    |
-| 4 -- 6pm        | **????**                                                        |
+| 4 -- 5:45pm     | **????**                                                        |
+| 5:45 -- 6pm     | [fastplotlib](https://github.com/fastplotlib/fastplotlib) advertisement                                       |
 | 6 -- 8pm        | Dinner                                                          |
 
 ### Friday, January 31
