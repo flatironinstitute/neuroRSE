@@ -54,7 +54,7 @@ pip install -e .
 
 ![image](https://users.flatironinstitute.org/~wbroderick/presentations_assets/fens-2024/flatiron-ccn.png)
 
-#note: Mots of the speakers and TAs here are part of the Center for Computational Neuroscience, the newest center at Flatiron, which has four research groups doing differnet types of computational neuroscience work, with grad students from NYU, postdocs and research scientists, along with summer interns.
+#note: Mots of the speakers and TAs here are part of the Center for Computational Neuroscience, the newest center at Flatiron, which has four research groups doing different types of computational neuroscience work, with grad students from NYU, postdocs and research scientists, along with summer interns.
 
 ---
 ## The Real Flatiron Institute

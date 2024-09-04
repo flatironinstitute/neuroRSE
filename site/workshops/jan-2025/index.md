@@ -28,7 +28,7 @@ Over the course of this two-day workshop, we will walk you through notebooks in 
 - The workshop will take place at the Flatiron Institute Center for Computational Neuroscience in midtown Manhattan.
 - We will accept approximately 30 attendees.
 - This workshop is intended for folks who are located within a two-hour flight of New York City. (We will host other workshops in other locations!)
-- For those not in the New York City area, travel and accomodations will be provided.
+- For those not in the New York City area, travel and accommodations will be provided.
 - Meals will be provided, including one off-site dinner.
 
 ## Workshop contents
