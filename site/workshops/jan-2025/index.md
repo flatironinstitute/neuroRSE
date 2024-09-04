@@ -34,7 +34,7 @@ Over the course of this two-day workshop, we will walk you through notebooks in 
 ## Workshop contents
 
 Over the course of this workshop, attendees will learn how to use pynapple and NeMoS to explore and analyze electrophysiogical data, making use of real datasets. Users will:
-- learn how to use pynapple to represent neural data, **FILL IN DETAILS**.
+- learn how to use pynapple to represent neural data, taking advantage of the shared time axis to perform common manipulations.
 - use pynapple to compute tuning curves and correlograms.
 - use NeMoS to fit generalized linear models to spiking data, investigating functional connectivity and comparing among possible models.
 
