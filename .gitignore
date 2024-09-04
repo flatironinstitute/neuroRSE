@@ -13,3 +13,6 @@ coverage
 _site/
 
 /ignored
+
+# these are present on wbroderick's flatiron webserver
+site/assets/fens-2024
