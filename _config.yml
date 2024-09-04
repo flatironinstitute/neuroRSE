@@ -32,11 +32,14 @@ plugins:
 collections:
   projects:
     order:
-      - CaImAn.md
       - nemos.md
       - plenoptic.md
       - pynapple.md
       - CCN_Template.md
+
+markdown: kramdown
+kramdown:
+  parse_block_html: html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
