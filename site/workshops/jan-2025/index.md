@@ -85,4 +85,5 @@ To get a sense of the material we will cover, see our [workshop from FENS 2024](
 - Edoardo Balzani
 - Billy Broderick
 - Guillaume Viejo
-- **TAs????**
+- Aramis Tanelus
+- Erik Schomburg
