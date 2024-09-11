@@ -36,7 +36,8 @@ If you'd like to be reminded, fill out [this form](https://forms.gle/fJF5H7DzXyV
 ## Important dates
 
 - Applications opens October 1
-- Applications are due November 1
+- Applications due November 1
+- Applicants notified of acceptance by November 7
 - Applicants must notify us of their attendance by November 11
 - Workshop: January 29 to 31, 2025
 
@@ -44,8 +45,8 @@ If you'd like to be reminded, fill out [this form](https://forms.gle/fJF5H7DzXyV
 
 - The workshop will take place at the Flatiron Institute Center for Computational Neuroscience in midtown Manhattan.
 - We will accept approximately 30 attendees.
-- This workshop is intended for folks who are located within a two-hour flight of New York City. (We will host other workshops in other locations!)
-- For those not in the New York City area, travel and accommodations will be provided.
+- This workshop is intended for folks who are located within a three-hour flight of New York City. (We will host other workshops in other locations!)
+- For those not in the New York City area to accommodations will be provided. A limited number of travel scholarships are also available.
 - Meals will be provided, including one off-site dinner.
 
 ## Workshop contents
