@@ -271,7 +271,9 @@ table {
     /* border-bottom-color: darken($grey-color-light, 12%); */
   }
   td {
-    border: 1px solid var(--grey-color-light);
+    border-width: 1px 0px 1px 0px;
+    border-style: solid;
+    border-color: var(--grey-color-light);
   }
 }
 

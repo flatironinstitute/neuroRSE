@@ -8,13 +8,30 @@ layout: home
 
 The Flatiron Center for Computational Neuroscience is excited to announce a workshop on using open source packages to analyze neural data in January 2025!
 
-Over the course of this two-day workshop, we will walk you through notebooks in order to demonstrate how to use pynapple and NeMoS to analyze and visualize neural data.
+Over the course of this two-day workshop, we will teach you how to use [pynapple](https://pynapple.org/) and [NeMoS](https://nemos.readthedocs.io) to analyze, model, and visualize neural data.
+
+## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" style="height: var(--base-font-size)"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg> Where?
+
+In person at the Flatiron Institute, 160 5th Ave, New York, NY 10010.
+
+## 📆 When?
+
+Janauary 29 -- 31, 2025.
+
+## 🤩 Interested?
+
+Registration will open October 1, check back then!
+
+If you'd like to be reminded, fill out [this form](https://forms.gle/fJF5H7DzXyVCRJsS8), and we'll email you when registration goes live.
 
 ## Intended audience
 
-- This workshop is intended for grad students and postdocs who are experimentalists in systems neuroscience, and who gather and analyze their own electrophysiology or calcium imaging data.
+- This workshop is intended for grad students and postdocs who are systems neuroscientists, i.e., who analyze electrophysiology or calcium imaging data.
 - In order to make best use of the limited space in the workshop, we will prioritize accepting one applicant per lab.
-- Applicants are expected to have basic familiarity with python and standard scientific python libraries (e.g., numpy, matplotlib, scikit-learn). They should be able to write their own functions to analyze and visualize data. They are not expected to familiar with either pynapple or NeMoS.
+- Applicants are expected to have basic familiarity with python:
+  - They should have used python and standard scientific python libraries (e.g., numpy, matplotlib, scikit-learn).
+  - They should be able to write their own functions to analyze and visualize data.
+  - They are not expected to familiar with either pynapple or NeMoS.
 
 ## Important dates
 
@@ -34,51 +51,43 @@ Over the course of this two-day workshop, we will walk you through notebooks in 
 ## Workshop contents
 
 Over the course of this workshop, attendees will learn how to use pynapple and NeMoS to explore and analyze electrophysiogical data, making use of real datasets. Users will:
-- learn how to use pynapple to represent neural data, taking advantage of the shared time axis to perform common manipulations.
-- use pynapple to compute tuning curves and correlograms.
-- use NeMoS to fit generalized linear models to spiking data, investigating functional connectivity and comparing among possible models.
+- Use pynapple to represent neural data, taking advantage of the shared time axis to perform common manipulations.
+- Use pynapple to characterize neural responses, e.g., compute tuning curves, cross-correlograms, power spectral densities.
+- Use NeMoS to fit generalized linear models to spiking data, investigating functional connectivity and comparing among possible models.
 
 To get a sense of the material we will cover, see our [workshop from FENS 2024](../fens-2024).
 
 ## Tentative schedule
 
-### Wednesday, January 29
-
-| Time        | Content           |
-|-------------|-------------------|
-| 2pm -- 5pm | Installation help |
-| 5pm -- 7pm | Welcome reception |
-
-### Thursday, January 30
-
-| Time            | Content                                                         |
-|-----------------|-----------------------------------------------------------------|
-| 9 -- 10am       | Breakfast                                                       |
-| 10 -- 11am      | Welcome and introduction to data standards                      |
-| 11 -- 11:30am   | Coffee break                                                    |
-| 11:30am -- 12pm | Pynapple core                                                   |
-| 12 -- 1pm       | Exercise: manipulating time series with core pynapple functions |
-| 1 -- 2pm        | Lunch                                                           |
-| 2 -- 2:30pm     | Standard analyses in systems neuroscience with pynapple         |
-| 2:30 -- 3:30pm  | Exercise: analyzing real neuroscience data with pynapple        |
-| 3:30 -- 4pm     | Coffee break                                                    |
-| 4 -- 5:45pm     | **????**                                                        |
-| 5:45 -- 6pm     | [fastplotlib](https://github.com/fastplotlib/fastplotlib) advertisement                                       |
-| 6 -- 8pm        | Dinner                                                          |
-
-### Friday, January 31
-
-| Time           | Content                                                     |
-|----------------|-------------------------------------------------------------|
-| 9 -- 10am      | Breakfast                                                   |
-| 10 -- 11am     | Introduction to Generalized Linear Models (GLMs)            |
-| 11 -- 11:30am  | Coffee break                                                |
-| 11:30am -- 1pm | Fitting a basic GLM to single neuron patch-clamp recordings |
-| 1 -- 2pm       | Lunch                                                       |
-| 2 -- 4pm       | Functional connectivity analysis of head-direction neurons  |
-| 4 -- 4:30pm    | Coffee break                                                |
-| 4:30 -- 6pm    | **????**                                                    |
-| 6 -- 8pm       | Dinner                                                      |
+| Day 0 (Wed, Jan 29)       |                                                                         |
+|---------------------------|-------------------------------------------------------------------------|
+| 2pm -- 5pm                | Installation help                                                       |
+| 5pm -- 7pm                | Welcome reception                                                       |
+|---------------------------|-------------------------------------------------------------------------|
+| **Day 1 (Thurs, Jan 30)** | **pynapple**                                                                         |
+|---------------------------|-------------------------------------------------------------------------|
+| 9 -- 10am                 | Breakfast                                                               |
+| 10 -- 11am                | Welcome and introduction to data standards                              |
+| 11 -- 11:30am             | Coffee break                                                            |
+| 11:30am -- 1pm            | Pynapple core                                                           |
+| 1 -- 2pm                  | Lunch                                                                   |
+| 2 -- 3:30pm               | Standard analyses in systems neuroscience, part 1         |
+| 3:30 -- 4pm               | Coffee break                                                            |
+| 4 -- 5:45pm               | Standard analyses in systems neuroscience, part 2         |
+| 5:45 -- 6pm               | [fastplotlib](https://github.com/fastplotlib/fastplotlib) advertisement |
+| 6 -- 8pm                  | Dinner                                                                  |
+|---------------------------|-------------------------------------------------------------------------|
+| **Day 2 (Fri, Jan 31)**   | **NeMoS**                                                                         |
+|---------------------------|-------------------------------------------------------------------------|
+| 9 -- 10am                 | Breakfast                                                               |
+| 10 -- 11am                | Introduction to Generalized Linear Models (GLMs)                        |
+| 11 -- 11:30am             | Coffee break                                                            |
+| 11:30am -- 1pm            | Fitting a basic GLM to single neuron patch-clamp recordings             |
+| 1 -- 2pm                  | Lunch                                                                   |
+| 2 -- 4pm                  | Functional connectivity analysis of head-direction neurons              |
+| 4 -- 4:30pm               | Coffee break                                                            |
+| 4:30 -- 6pm               | Feature selection and model comparison                                                                |
+| 6 -- 8pm                  | Dinner                                                                  |
 
 ## Speakers and TAs
 
@@ -87,3 +96,4 @@ To get a sense of the material we will cover, see our [workshop from FENS 2024](
 - Guillaume Viejo
 - Aramis Tanelus
 - Erik Schomburg
+- Sofia Skromne Carrasco
