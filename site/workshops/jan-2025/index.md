@@ -16,7 +16,7 @@ In person at the Flatiron Institute, 160 5th Ave, New York, NY 10010.
 
 ## 📆 When?
 
-Janauary 29 -- 31, 2025.
+January 29 -- 31, 2025.
 
 ## 🤩 Interested?
 
