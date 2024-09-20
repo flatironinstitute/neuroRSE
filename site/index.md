@@ -54,6 +54,11 @@ Edoardo is the one of the principal developers of Nemos, a package for statistic
 <img src="./assets/billy.jpg" align="right" style="padding:0px 0px 10px 15px" width="100"/>
 Billy Broderick received his Ph.D. from NYU's Center for Neural Science, where he was advised by Eero Simoncelli and Jon Winawer. During his Ph.D., he studied how vision changes across the visual field using fMRI, psychophysics, and computational models. Before that, he worked as a research assistant at Duke University, spent a year at South China Normal University in Guangzhou, China as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx), and got his B.A. in neuroscience and mathematics at Oberlin College
 
+## Sarah Jo Venditto
+
+<img src="assets/sjvenditto_headshot.jpeg" align="right" style="padding:0px 0px 0px 15px" width="100"/>
+Sarah Jo supports and develops open-source software for the center and with the Statistical Analysis of Neural Data group. She received her Ph.D. in Neuroscience from Princeton University working with Carlos Brody and Nathaniel Daw, where she studied neural mechanisms of cognition in rodents using experimental methods, statistical analysis, and computational models. Prior to her Ph.D., she worked as a research assistant at Indiana University and got her B.S. in Physics with a minor in Mathematics from Bethel University in Minnesota.
+
 ## [Guillaume Viejo](https://www.simonsfoundation.org/people/guillaume-viejo/)
 
 <img src="./assets/guillaume.jpg" align="right" style="padding:0px 0px 0px 15px" width="100"/>
