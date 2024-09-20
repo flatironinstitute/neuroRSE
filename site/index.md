@@ -51,7 +51,7 @@ Edoardo is the one of the principal developers of Nemos, a package for statistic
 
 ## [Billy Broderick](https://wfbroderick.com)
 
-<img src="./assets/billy.jpg" align="right" style="padding:0px 0px 0px 15px" width="100"/>
+<img src="./assets/billy.jpg" align="right" style="padding:0px 0px 10px 15px" width="100"/>
 Billy Broderick received his Ph.D. from NYU's Center for Neural Science, where he was advised by Eero Simoncelli and Jon Winawer. During his Ph.D., he studied how vision changes across the visual field using fMRI, psychophysics, and computational models. Before that, he worked as a research assistant at Duke University, spent a year at South China Normal University in Guangzhou, China as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx), and got his B.A. in neuroscience and mathematics at Oberlin College
 
 ## [Guillaume Viejo](https://www.simonsfoundation.org/people/guillaume-viejo/)
