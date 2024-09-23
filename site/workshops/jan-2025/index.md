@@ -32,6 +32,7 @@ If you'd like to be reminded, fill out [this form](https://forms.gle/fJF5H7DzXyV
   - They should have used python and standard scientific python libraries (e.g., numpy, matplotlib, scikit-learn).
   - They should be able to write their own functions to analyze and visualize data.
   - They are not expected to familiar with either pynapple or NeMoS.
+- This workshop is intended for folks who are located within a three-hour flight of New York City. (We will host other workshops in other locations!)
 
 ## Important dates
 
@@ -45,7 +46,6 @@ If you'd like to be reminded, fill out [this form](https://forms.gle/fJF5H7DzXyV
 
 - The workshop will take place at the Flatiron Institute Center for Computational Neuroscience in midtown Manhattan.
 - We will accept approximately 30 attendees.
-- This workshop is intended for folks who are located within a three-hour flight of New York City. (We will host other workshops in other locations!)
 - For those not in the New York City area to accommodations will be provided. A limited number of travel scholarships are also available.
 - Meals will be provided, including one off-site dinner.
 
@@ -98,3 +98,4 @@ To get a sense of the material we will cover, see our [workshop from FENS 2024](
 - Aramis Tanelus
 - Erik Schomburg
 - Sofia Skromne Carrasco
+- Sarah Jo Venditto
