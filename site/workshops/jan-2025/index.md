@@ -72,9 +72,9 @@ To get a sense of the material we will cover, see our [workshop from FENS 2024](
 | 11 -- 11:30am             | Coffee break                                                            |
 | 11:30am -- 1pm            | Pynapple core                                                           |
 | 1 -- 2pm                  | Lunch                                                                   |
-| 2 -- 3:30pm               | Standard analyses in systems neuroscience, part 1         |
+| 2 -- 3:30pm               | Standard analyses in systems neuroscience, part 1: cross-correlations and tuning curves         |
 | 3:30 -- 4pm               | Coffee break                                                            |
-| 4 -- 5:45pm               | Standard analyses in systems neuroscience, part 2         |
+| 4 -- 5:45pm               | Standard analyses in systems neuroscience, part 2: signal processing         |
 | 5:45 -- 6pm               | [fastplotlib](https://github.com/fastplotlib/fastplotlib) advertisement |
 | 6 -- 8pm                  | Dinner                                                                  |
 |---------------------------|-------------------------------------------------------------------------|
