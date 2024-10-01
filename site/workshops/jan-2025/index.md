@@ -90,10 +90,5 @@ To get a sense of the material we will cover, see our [workshop from FENS 2024](
 
 ## Speakers and TAs
 
-- Edoardo Balzani
-- Billy Broderick
-- Guillaume Viejo
-- Aramis Tanelus
-- Erik Schomburg
-- Sofia Skromne Carrasco
-- Sarah Jo Venditto
+{% assign speakers = "balzani,broderick,venditto,viejo,lewis,schomburg,skromne-carrasco,tanelus" | split: "," %}
+{% include people_cards.html people=speakers %}

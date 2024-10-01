@@ -1,0 +1,24 @@
+<div style="height: 2rem"></div>
+
+<!-- based on https://jekyllrb.com/docs/step-by-step/09-collections/#list-authors-posts -->
+{% assign filtered_people = site.people | where_exp: 'person', "include.people contains person.short_name" %}
+<people-list>
+  {% for person in filtered_people %}
+  {% if person.center %}
+    {% assign object_pos = person.center %}
+  {% else %}
+    {% assign object_pos = "0 0" %}
+  {% endif %}
+  <people-card style="display:flex;align-items:center">
+    <h2>
+      {{ person.name }}
+    </h2>
+    <img src="{{ person.picture }}" style="object-fit:cover;object-position:{{ object_pos }}" width="100" height="100"/>
+    {% if person.job %}
+    {{ person.job }}
+    {% endif %}
+  </people-card>
+  {% endfor %}
+</people-list>
+
+<div style="height: 2rem"></div>
