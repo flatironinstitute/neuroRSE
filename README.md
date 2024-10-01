@@ -15,6 +15,10 @@ Website for Flatiron CCN's NeuroRSE group
 - From the root directory, run `bundle exec jekyll serve -s ./site -d ./_site
   --livereload`, then open `localhost:4000` in your browser
 
+## Helpful resources
+
+- For writing templates: [liquid cheat sheet 1](https://www.fabriziomusacchio.com/blog/2021-08-12-Liquid_Cheat_Sheet/), [liquid cheatsheet 2](https://shortcode.dev/liquid-cheatsheet)
+
 ## Presentations
 
 This repo includes the machinery to build [reveal.js](https://revealjs.com/) presentations. To do so:
