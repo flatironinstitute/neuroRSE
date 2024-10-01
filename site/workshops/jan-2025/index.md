@@ -20,9 +20,7 @@ January 29 -- 31, 2025.
 
 ## 🤩 Interested?
 
-Registration will open October 1, check back then!
-
-If you'd like to be reminded, fill out [this form](https://forms.gle/fJF5H7DzXyVCRJsS8), and we'll email you when registration goes live.
+Apply [here](https://simonsfoundation.formstack.com/forms/ccn_winter_2025_software_workshop_application)!
 
 ## Intended audience
 
