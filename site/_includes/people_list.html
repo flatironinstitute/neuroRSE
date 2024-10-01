@@ -1,0 +1,19 @@
+{% if include.header_lvl %}
+  {% assign header_lvl = include.header_lvl %}
+{% else %}
+  {% assign header_lvl = "h2" %}
+{% endif %}
+
+<!-- based on https://jekyllrb.com/docs/step-by-step/09-collections/#list-authors-posts -->
+{% assign filtered_people = site.people | where_exp: 'person', "include.people contains person.short_name" %}
+{% for person in filtered_people %}
+<{{ header_lvl }}>
+  {%- if person.external_url -%}
+  <a href="{{ person.external_url }}">{{ person.name }}</a>
+  {%- else -%}
+  {{ person.name }}
+  {%- endif -%}
+</{{ header_lvl }}>
+<img src="{{ person.picture }}" align="right" style="padding:0px 0px 0px 15px" width="100"/>
+{{ person.content }}
+{% endfor %}

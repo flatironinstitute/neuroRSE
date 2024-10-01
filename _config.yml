@@ -30,6 +30,7 @@ plugins:
   - jekyll-seo-tag
 
 collections:
+  people:
   projects:
     order:
       - nemos.md
