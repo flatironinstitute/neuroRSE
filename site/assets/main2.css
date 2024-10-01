@@ -99,6 +99,10 @@ main {
 /**
  * Images
  */
+p:has(img) {
+  flex: 1 0 auto;
+}
+
 img {
   max-width: 100%;
   vertical-align: middle;
