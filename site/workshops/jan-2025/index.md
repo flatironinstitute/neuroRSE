@@ -22,6 +22,10 @@ January 29 -- 31, 2025.
 
 Apply [here](https://simonsfoundation.formstack.com/forms/ccn_winter_2025_software_workshop_application)!
 
+## ❓Questions?
+
+Email us at `neurorse [at] flatironinstitute.org`.
+
 ## Intended audience
 
 - This workshop is intended for grad students and postdocs who are systems neuroscientists, i.e., who analyze electrophysiology or calcium imaging data.

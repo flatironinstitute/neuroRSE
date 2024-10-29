@@ -42,6 +42,10 @@ All of our projects are open-source python packages. We are always happy to get 
 
 {% include project_list.html %}
 
+# Contact
+
+You can get in touch with us at `neurorse [at] flatironinstitute.org`
+
 # Members
 
 {% assign members = "balzani,broderick,venditto,viejo" | split: "," %}
