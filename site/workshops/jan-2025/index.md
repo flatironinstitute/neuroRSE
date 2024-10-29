@@ -40,7 +40,7 @@ Email us at `neurorse [at] flatironinstitute.org`.
 
 - Applications opens October 1
 - Applications due November 1
-- Applicants notified of acceptance by November 7
+- Applicants notified of acceptance by November 8
 - Applicants must notify us of their attendance by November 11
 - Workshop: January 29 to 31, 2025
 
