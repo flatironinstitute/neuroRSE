@@ -17,6 +17,12 @@ The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience b
 
 <ul class="post-list">
   <li>
+    <span class="post-meta">February 2025</span>
+    <h3>
+      <a class="post-link" href="/workshops/feb-2025">February 2025</a>
+    </h3>
+  </li>
+  <li>
     <span class="post-meta">January 2025</span>
     <h3>
       <a class="post-link" href="/workshops/jan-2025">January 2025</a>
