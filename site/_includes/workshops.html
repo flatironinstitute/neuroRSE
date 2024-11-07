@@ -1,0 +1,21 @@
+{%- if site.workshops.size > 0 -%}
+<h1 class="post-list-heading">Workshops</h1>
+<ul class="post-list">
+  {%- for workshop in site.workshops reversed -%}
+  <li>
+    {%- assign date_format = "%b %Y" -%}
+    <span class="post-meta">{{ workshop.date | date: date_format }}</span>
+    <h3>
+      {%- if workshop.external_url.size > 0 -%}
+      <a class="post-link" href="{{ workshop.external_url }}">
+      {%- else -%}
+      <a class="post-link" href="{{ workshop.url | relative_url }}">
+      {%- endif -%}
+        {{ workshop.title | escape }}
+      </a>
+    </h3>
+    {%- if site.show_excerpts -%} {{ workshop.excerpt }} {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>
+{%- endif -%}

@@ -13,34 +13,7 @@ The NeuroRSE group at Flatiron Institute Center for Computational Neuroscience b
 
 {% include posts.html %}
 
-# Workshops
-
-<ul class="post-list">
-  <li>
-    <span class="post-meta">February 2025</span>
-    <h3>
-      <a class="post-link" href="/workshops/feb-2025">February 2025</a>
-    </h3>
-  </li>
-  <li>
-    <span class="post-meta">January 2025</span>
-    <h3>
-      <a class="post-link" href="/workshops/jan-2025">January 2025</a>
-    </h3>
-  </li>
-  <li>
-    <span class="post-meta">June 2024</span>
-    <h3>
-      <a class="post-link" href="/workshops/fens-2024">FENS 2024</a>
-    </h3>
-  </li>
-  <li>
-    <span class="post-meta">February 2024</span>
-    <h3>
-      <a class="post-link" href="https://nemos-workshop-feb-2024.readthedocs.io/en/latest/">Nemos 2024</a>
-    </h3>
-  </li>
-</ul>
+{% include workshops.html %}
 
 # Our Projects
 

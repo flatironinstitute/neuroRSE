@@ -31,6 +31,8 @@ plugins:
 
 collections:
   people:
+  workshops:
+    output: true
   projects:
     order:
       - nemos.md
@@ -38,6 +40,7 @@ collections:
       - pynapple.md
       - CCN_Template.md
 
+future: true
 markdown: kramdown
 kramdown:
   parse_block_html: html
