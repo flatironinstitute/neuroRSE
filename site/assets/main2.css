@@ -279,6 +279,9 @@ table {
     border-style: solid;
     border-color: var(--grey-color-light);
   }
+  th:first-child, td:first-child {
+    width: 30%
+  }
 }
 
 /**
