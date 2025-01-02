@@ -6,6 +6,10 @@ Website for Flatiron CCN's NeuroRSE group
 
 - The "Posts" section contains all the files from `site/_posts` whose names must
   be of the form `YYYY-MM-DD-title.md` in order to be included in the built site.
+- If you write a post that you do not want rendered yet, save it in the
+  `site/_drafts` folder. Then, to render it when building locally, add `--drafts` to
+  the `jekyll serve` command below to see it. When you are ready to include it
+  on the site, move it to the `site/_posts` folder.
 
 ## Building locally
 
