@@ -39,6 +39,13 @@ jobs:
       - name: Build with Jekyll
         run: |
           bundle exec jekyll build --verbose -d ./_site
+      - name: Check html
+        uses: chabad360/htmlproofer@master
+        with:
+          directory: "./_site"
+          # The directory to scan
+          arguments: --no-enforce-https --allow_hash_href --ignore-missing-alt --assume_extension - ./_site --ignore-urls '/http:\/\/www.hluce.org/' --ignore-files '/.+\/assets\/.+/'
+          # The arguments to pass to HTMLProofer
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 
