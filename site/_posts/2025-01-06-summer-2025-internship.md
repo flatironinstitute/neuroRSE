@@ -27,11 +27,6 @@ The three software packages that are currently in development at CCN are:
 
 [Pynapple](https://github.com/pynapple-org/pynapple) (Python Neural Analysis Package) is a library for neurophysiological time series data analysis and visualization. 
 
-## Who are we?
-
-{% assign members = "balzani,broderick,venditto,viejo" | split: "," %}
-{% include people_list.html people=members %}
-
 ## What types of background are we looking for?
 We are looking for interns who have experience in at least one of: 
 
@@ -50,3 +45,8 @@ Elibigle to current students at Bachelor's level or above. Applications will be 
 
 ## To apply
 To submit an application, please visit [the Simons website](https://apply.interfolio.com/159680). Deadline for application is **January 17, 2025**. Applications are structured so that you need to put a PI at CCN as primary group and NeuroRSE as secondary group: the written part of the application will clarify your intentions to work on software development. While it is not essential, we recommend that if you are most interested in working on Nemos that you put Alex Williams as the primary group; those interested in Plenoptic or Pynapple should list Eero Simoncelli. 
+
+## Who are we?
+
+{% assign members = "balzani,broderick,venditto,viejo" | split: "," %}
+{% include people_list.html people=members %}
