@@ -22,7 +22,7 @@ source: site
 title: NeuroRSE
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
-url: "https://neurorse.flatironinstitute.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://neurorse.flatironinstitute.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
