@@ -16,16 +16,21 @@ The three software packages that are currently in development at CCN are:
 
 ![Nemos](/assets/nemos_logo.svg)
 
-[nemos](https://github.com/flatironinstitute/nemos), maintained by Edoardo Balzani, is a statistical modeling framework for neurophysiology data. 
+[nemos](https://github.com/flatironinstitute/nemos) is a statistical modeling framework for neurophysiology data. 
 
 ![plenoptic](/assets/plenoptic_logo.svg)
 
-[plenoptic](https://github.com/LabForComputationalVision/plenoptic), maintained by Billy Broderick, is a library for model-based visual and auditory stimulus synthesis. 
+[plenoptic](https://github.com/LabForComputationalVision/plenoptic) is a library for model-based visual and auditory stimulus synthesis. 
 
 ![pynapple](/assets/pynapple_logo.svg) 
 {:style="width:50%"}
 
-[Pynapple](https://github.com/pynapple-org/pynapple) (Python Neural Analysis Package), maintained by Guillaume Viejo, is a library for neurophysiological time series data analysis and visualization. 
+[Pynapple](https://github.com/pynapple-org/pynapple) (Python Neural Analysis Package) is a library for neurophysiological time series data analysis and visualization. 
+
+## Who are we?
+
+{% assign members = "balzani,broderick,venditto,viejo" | split: "," %}
+{% include people_list.html people=members %}
 
 ## What types of background are we looking for?
 We are looking for interns who have experience in at least one of: 
@@ -37,7 +42,7 @@ We are looking for interns who have experience in at least one of:
 We *do not* expect you to already be an expert in both neuroscience and software development! If the internship sounds exciting to you, and you are worried about your qualifications, we recommend that you apply. One of the goals of the internship is to help people learn to contribute to open-source projects. We don't expect you to already be an expert. 
 
 ## Anything else I should know?
-- The application to work with the NeuroRSE team will be part of the broader CCN intern application. If you specifically want to work with us, please mention that in your application, as well as one or two packages from the above list that you would be interested in working on, and why.
+- The application to work with the NeuroRSE team will be part of the broader CCN intern application. If you specifically want to work with us, **please mention** that in your application, as well as one or two packages from the above list that you would be interested in working on, and why.
 - If you have a GitHub, GitLab, or similar profile, please include a link to the profile in your application. If you have a specific project or two that is particularly relevant, please include a link to those as well.
 
 ## Fine print
