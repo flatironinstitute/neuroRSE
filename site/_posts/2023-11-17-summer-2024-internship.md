@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neuroscience Software Summer Internship"
+title: "2024 Neuroscience Software Summer Internship"
 categories: events
 ---
 

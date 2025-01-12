@@ -34,3 +34,5 @@ gem "logger"
 gem "csv"
 gem "ostruct"
 gem "base64"
+
+gem "kramdown-parser-gfm"
