@@ -4,7 +4,7 @@
  *
  * Liz Lovero
  * Updated: 28 August 2019
-*/
+ */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Tinos:400,700,400i,700i');
 /*********************************************
@@ -84,7 +84,7 @@ body {
   margin-top: 20%;
 }
 
-.reveal h2:not(:has(~ p, ~ div, ~ ul, ~ ol, ~ dl)):not(h1 + h2, h2 + h2) {
+.reveal h2:not(:has(~ p, ~ div, ~ ul, ~ ol, ~ dl, ~ table)):not(h1 + h2, h2 + h2) {
   text-shadow: none;
   margin-bottom: 5%;
   margin-top: 20%;
@@ -216,23 +216,6 @@ body {
   word-wrap: normal;
 }
 
-.reveal table {
-  margin: auto;
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-.reveal table th {
-  font-weight: bold;
-}
-
-.reveal table th,
-.reveal table td {
-  text-align: left;
-  padding: 0.2em 0.5em 0.2em 0.5em;
-  border-bottom: 1px solid;
-}
-
 .reveal table.vert th,
 .reveal table.vert td {
   border-left: 1px solid;
@@ -242,19 +225,42 @@ body {
   border-left: none;
 }
 
-.reveal table th[align='center'],
-.reveal table td[align='center'] {
-  text-align: center;
-}
-
-.reveal table th[align='right'],
-.reveal table td[align='right'] {
-  text-align: right;
-}
-
-.reveal table tbody tr:last-child th,
-.reveal table tbody tr:last-child td {
-  border-bottom: none;
+/* copied from main2.css and then modified slightly */
+.reveal table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  margin: auto;
+  border-spacing: 0;
+  border: 1px solid #e8e8e8;
+  th {
+    font-weight: bold;
+  }
+  th,
+  td {
+    padding: 0.2em 0.5em 0.2em 0.5em;
+    border-bottom: 1px solid;
+  }
+  td {
+    border-width: 1px 0px 1px 0px;
+    border-style: solid;
+    border-color: #e8e8e8;
+  }
+  th:first-child, td:first-child {
+    width: 30%
+  }
+  th[align='center'],
+  td[align='center'] {
+    text-align: center;
+  }
+  th[align='right'],
+  td[align='right'] {
+    text-align: right;
+  }
+  tbody tr:last-child th,
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
 }
 
 .reveal sup {
@@ -492,3 +498,4 @@ div.two-column {
   display: none;
   visibility: hidden;
 }
+
