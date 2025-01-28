@@ -10,6 +10,11 @@ Website for Flatiron CCN's NeuroRSE group
   `site/_drafts` folder. Then, to render it when building locally, add `--drafts` to
   the `jekyll serve` command below to see it. When you are ready to include it
   on the site, move it to the `site/_posts` folder.
+- "Posts" are largely for announcements (e.g., about workshops, internships,
+  jobs). Once enough time has passed that it would be confusing to keep it
+  there, add the `past` tag to it, which will move it to the "Past
+  Announcements" section fo the website (see
+  `site/_posts/2023-11-17-summer-2024-internship.md` for an example).
 
 ## Building locally
 
