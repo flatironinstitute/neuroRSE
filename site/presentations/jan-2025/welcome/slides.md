@@ -11,6 +11,10 @@ but before all that --- couple quick notes:
 
 ---
 
+## Everyone on the slack?
+
+--- 
+
 ## Everyone installed and ready to go?
 
 ```
