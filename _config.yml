@@ -41,8 +41,6 @@ collections:
       - plenoptic.md
       - pynapple.md
       - CCN_Template.md
-  past_announcements:
-    output: true
 
 future: true
 markdown: kramdown
