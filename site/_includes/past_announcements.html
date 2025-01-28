@@ -1,7 +1,7 @@
-{%- if site.past_announcements.size > 0 -%}
+{%- if site.tags["past"].size > 0 -%}
 <h1 class="post-list-heading">Past Announcements</h1>
 <ul class="post-list">
-  {%- for post in site.past_announcements -%}
+  {%- for post in site.tags["past"] -%}
   <li>
     {%- assign date_format = "%b %-d, %Y" -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -14,4 +14,4 @@
   </li>
   {%- endfor -%}
 </ul>
-{%- endif -%} 
+{%- endif -%}

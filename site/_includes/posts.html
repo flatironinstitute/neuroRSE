@@ -2,6 +2,10 @@
 <h1 class="post-list-heading">News</h1>
 <ul class="post-list">
   {%- for post in site.posts -%}
+  <!-- if we've tagged a post as "past", then don't include it in news -->
+  {%- if post.tags contains "past" -%}
+    {% continue %}
+  {%- endif -%}
   <li>
     {%- assign date_format = "%b %-d, %Y" -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -14,4 +18,4 @@
   </li>
   {%- endfor -%}
 </ul>
-{%- endif -%} 
+{%- endif -%}
