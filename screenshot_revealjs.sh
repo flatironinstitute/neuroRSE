@@ -15,7 +15,8 @@ echo "After screenshow, hit Ctrl+C to cancel, then delete the extra screenshots 
 echo "for name in $1/*.png; do convert $name $1/`basename $name .png`.pdf; done"
 echo "pdftk $1/*.pdf cat output Presentation.pdf"
 
-i=1000000
+# starting from 1000 so that we don't have to worry about 0-padding
+i=1000
 pause=1
 while true; do
     scrot -d $pause "$1/shot$i.png"

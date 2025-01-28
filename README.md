@@ -55,6 +55,8 @@ Syntax notes for the markdown:
     ```shell
     # the directory you want to place the screenshots in, which you should pass as an argument to the script
     mkdir screenshots
+    # if you have multiple monitors attached, go into the script, find `scrot` and use the 
+    # `-M` flag to specify a monitor
     ./screenshot_revealjs.sh screenshots/ 
     # switch to presentation, make it full screen, and let the script run through it all
     # switch back to terminal, Ctrl+C to kill the script
@@ -63,7 +65,7 @@ Syntax notes for the markdown:
     pdftk screenshots/*pdf cat output presentation.pdf
     ```
 
-See `site/workdshops/fens-2024/welcome/` for an example, and ask Billy if you have any questions.
+See `site/presentations/fens-2024/welcome/` for an example, and ask Billy if you have any questions.
 
 ### Styling
 
