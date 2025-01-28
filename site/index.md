@@ -21,6 +21,8 @@ All of our projects are open-source python packages. We are always happy to get 
 
 {% include project_list.html %}
 
+{% include past_announcements.html %}
+
 # Contact
 
 You can get in touch with us at `neurorse [at] flatironinstitute.org`
