@@ -27,11 +27,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: true
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
@@ -47,7 +47,7 @@ jobs:
           # The arguments to pass to HTMLProofer. swap-urls is because of this issue: https://github.com/gjtorikian/html-proofer/issues/170 and basically turns all absolute links from our site that point to our site into relative
           arguments: --no-enforce-https --allow_hash_href --ignore-missing-alt --assume_extension - ./_site --ignore-files '/.+\/assets\/.+/'  --swap-urls "https?\:\/\/(localhost\:4000|neurorse\.flatironinstitute\.org):"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
@@ -59,4 +59,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
