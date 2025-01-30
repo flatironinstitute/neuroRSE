@@ -20,7 +20,9 @@ but before all that --- couple quick notes:
 ```
 cd path/to/ccn-software-jan-2025
 git pull
-pip install -e .
+# activate your python environment
+python scripts/setup.py
+python scripts/check_setup.py
 ```
 
 ---
