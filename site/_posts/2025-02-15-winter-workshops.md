@@ -4,7 +4,7 @@ title: "Winter 2025 CCN Software Workshops"
 categories: events
 ---
 
-Over the past two weeks, the NeuroRSE group at [CCN](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) ran two software workshops training scientists how to use [pynapple](https://pynapple.org/) and [nemos](https://nemos.readthedocs.io/en/latest/) to analyze neuroscience data! We had a total of about 55 participants across the two workshops, ranging from undergrads to postdocs.
+At the end of January and beginning of February, the NeuroRSE group at [CCN](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) ran two software workshops training scientists how to use [pynapple](https://pynapple.org/) and [nemos](https://nemos.readthedocs.io/en/latest/) to analyze neuroscience data! We had a total of about 55 participants across the two workshops, ranging from undergrads to postdocs.
 
 Thanks to all the participants for joining us! And thank you to Oliver Rübel for coming out to talk about the [Neurodata Without Borders](https://www.nwb.org/) data standard, to Alicja Jankowska from CCN and Tori Hall and Stephanie Adika from the Simons Events team for handling the organization and logistics for the event, and to all the TAs for their help!
 
