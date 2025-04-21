@@ -491,4 +491,30 @@ project-card {
   background-color: #fc0;
   padding: 1em;
   border-radius: 4px;
+  display: inline-block;
+}
+
+.notice-light {
+  background-color: #fc0;
+  padding: 1em;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.button {
+  border: none;
+  outline: none;
+  border-radius: 7px;
+  font-weight: 600;
+  cursor: pointer;
+  /* transition: all 300ms ease; */
+}
+
+a.button {
+  text-decoration: none;
+  color: var(--sf-gray-1);
+}
+
+.button:hover {
+  filter: saturate(4);
 }
