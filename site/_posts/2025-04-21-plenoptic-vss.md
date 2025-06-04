@@ -2,6 +2,7 @@
 layout: home
 title: "Plenoptic at VSS 2025"
 categories: events
+tags: past
 ---
 
 ![plenoptic](/assets/plenoptic_vss.svg)
