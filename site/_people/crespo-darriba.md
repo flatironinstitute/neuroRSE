@@ -1,5 +1,5 @@
 ---
-name: Pablo Crespo Darribo
+name: Pablo Crespo Darriba
 short_name: crespo-darriba
 picture: /assets/crespo-darriba.jpg
 ---
