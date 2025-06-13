@@ -2,6 +2,7 @@
 layout: post
 title: "Winter 2025 CCN Software Workshops"
 categories: events
+tags: past
 ---
 
 At the end of January and beginning of February, the NeuroRSE group at [CCN](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) ran two software workshops training scientists how to use [pynapple](https://pynapple.org/) and [nemos](https://nemos.readthedocs.io/en/latest/) to analyze neuroscience data! We had a total of about 55 participants across the two workshops, ranging from undergrads to postdocs.
