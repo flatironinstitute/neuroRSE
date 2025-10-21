@@ -1,6 +1,6 @@
 # Flatiron CCN Software workshop
 
-![image](/assets/jan2025-banner.svg)
+![image](/assets/sfn2025-banner.svg)
 
 #note: thanks everyone for coming to this workshop!
 
