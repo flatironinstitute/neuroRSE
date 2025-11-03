@@ -35,12 +35,22 @@ collections:
     output: true
   workshops:
     output: true
+  redirects:
+    output: true
   projects:
     order:
       - nemos.md
       - plenoptic.md
       - pynapple.md
       - CCN_Template.md
+
+# redirects from https://github.com/jekylltools/jekyll-redirect-layout
+defaults:
+  -
+    scope:
+      type: redirects
+    values:
+      layout: redirect
 
 future: true
 markdown: kramdown
