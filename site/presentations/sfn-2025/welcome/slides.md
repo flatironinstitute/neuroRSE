@@ -78,7 +78,7 @@ python scripts/check_setup.py
 
 ## Workshop staff
 
-![image](/assets/feb-2025/speakers.svg)
+![image](/assets/sfn-2025/speakers.svg)
 
 #note: Okay, with all that out of the way, let's introduce who's here for this workshop. These are the people you can ask questions to if you have logistical or technical problems. I'm going to have us all go around and introduce ourselves briefly, saying who we are, where we are, what we work on, and one non-science fact about ourselves.
 
@@ -96,38 +96,39 @@ Okay, let's go through everyone else from top left to bottom right: Jessica?
 #note: Now let's go through and introduce all the participants. Let's start at the front here and we'll snake our way back.
 
 ---
-## Day 1: pynapple
+## Day 1
 
-| Time          | Event                                                                                   |
-|---------------|-----------------------------------------------------------------------------------------|
-| 9 - 10am      | Breakfast                                                                               |
-| 10 - 11am     | Welcome and introduction to data standards                                              |
-| 11 - 11:30am  | Coffee break                                                                            |
-| 11:30am - 1pm | Pynapple core                                                                           |
-| 1 - 2pm       | Lunch                                                                                   |
-| 2 - 3:30pm    | Standard analyses in systems neuroscience, part 1: cross-correlations and tuning curves |
-| 3:30 - 4pm    | Photo and coffee break                                                                            |
-| 4 - 5:45pm    | Standard analyses in systems neuroscience, part 2: signal processing                    |
-| 5:45 - 6pm    | [fastplotlib](https://github.com/fastplotlib/fastplotlib) advertisement                 |
+| Time           | Event                                                                  |
+|----------------|------------------------------------------------------------------------|
+| 9 -- 10am      | Breakfast                                                              |
+| 10 -- 11am     | Welcome and introduction to data standards                             |
+| 11 -- 11:30am  | Coffee break                                                           |
+| 11:30am -- 1pm | Pynapple core                                                          |
+| 1 -- 2pm       | Lunch                                                                  |
+| 2 -- 3:30pm    | NeMoS core                                                             |
+| 3:30 -- 4pm    | Coffee break                                                           |
+| 4 -- 5:45pm    | **Group project**: Fit head-direction population with Pynapple & Nemos |
+| 6 -- 8pm       | Dinner                                                                 |
 
-#note: Excellent. so, up next, we're going to hear from Oliver talking about the NWB data standard, then the rest of the day will be Guillaume and Sarah Jo talking about pynapple, alternating between presentations and hands-on exercises.
+#note: Excellent. so, up next, we're going to hear from Heberto talking about the NWB data standard, then the rest of the day will be Guillaume and Sarah Jo talking about pynapple, alternating between presentations and hands-on exercises.
 
 if you don't have your installation working now, come find one of us at the coffee break so we can get you ready to go for the rest of the day! please!
 
 ---
-## Day 2: nemos
+## Day 2
 
-| Time          | Event                                                       |
-|---------------|-------------------------------------------------------------|
-| 9 - 10am      | Breakfast                                                   |
-| 10 - 11am     | Introduction to Generalized Linear Models (GLMs)            |
-| 11 - 11:30am  | Coffee break                                                |
-| 11:30am - 1pm | Fitting a basic GLM to single neuron patch-clamp recordings |
-| 1 - 2pm       | Lunch                                                       |
-| 2 - 4pm       | Functional connectivity analysis of head-direction neurons  |
-| 4 - 4:30pm    | Coffee break                                                |
-| 4:30 - 6pm    | Model comparison and cross-validation                       |
-| 6 - 8pm       | Concluding reception                                        |
+| Time           | Event                                                              |
+|----------------|--------------------------------------------------------------------|
+| 9 -- 10am      | Breakfast                                                          |
+| 10 -- 10:30am  | Plenoptic advertisement                   |
+| 10:30 -- 11am  | Pynapple advanced                                                  |
+| 11 -- 11:30am  | Coffee break                                                       |
+| 11:30am -- 1pm | **Group project**: Theta phase-precession with hippocampal data    |
+| 1 -- 2pm       | Lunch                                                              |
+| 2 -- 3:30pm    | NeMoS advanced                                                     |
+| 3:30 -- 4pm    | Coffee break                                                       |
+| 4 -- 6pm       | **Group project**: Fitting Visual dataset from the Allen Brain Map |
+| 6 -- 8pm       | Dinner                                                             |
 
 #note: tomorrow is all Generalized Linear Models, all day. We'll start off with Edoardo giving an conceptual overview of the GLM, then I'll walk you through a simple example with some data from the Allen Brain Observatory, Edoardo will come back to walk you through a more involved example with head-direction tuned neurons, then I'll finish the day by discussing how to use nemos with scikit-learn to do model selection and cross-validation
 
@@ -139,13 +140,15 @@ if you don't have your installation working now, come find one of us at the coff
 - Even if you think your question is dumb. <!-- .element: class="fragment appear" -->
   - (It's not.) <!-- .element: class="fragment appear" -->
 - If you don't understand something, you're not the only one. <!-- .element: class="fragment appear" -->
+- We have a broad range of experiences here. <!-- .element: class="fragment appear" -->
 
-
-#note: one last thing. this workshop works best when it's interactive: we'll be doing a lot of standing up here and talking, but this really works best when you ask us questions. So please: **click**
+#note: one last thing. we're covering a lot of ground, but this workshop works best when it's interactive: we'll be doing a good amount of standing up here and talking, but this really works best when you ask us questions. So please: **click**
 
 We understand how the software works and are very comfortable with python, and we've given this or similar presentations multiple times. we have done our best to not make this accessible, but it is certain that at some point, we will forget to explain something, or we'll present something in a way that is unclear. please -- if something is unclear, ask us.
 
 even if you think your question is dumb. because it's not -- if you don't understand something, you're not the only one. on that note, I'm most directly talking to the senior folks in the audience here -- if you're a postdoc or a senior grad student, we're counting on you to model this behavior for the more junior folks. because we all remember feeling too self conscious in lab meeting to ask a question.
+
+we have folks with a range of neuroscience backgrounds and programming/python skills here. we've tried to pitch the material at the right level so that everyone can follow along, but, as those of you who teach know -- that's hard. so please let us know if you don't understand! 
 
 ---
 ## one link to rule them all
@@ -154,4 +157,4 @@ even if you think your question is dumb. because it's not -- if you don't unders
 
 #note: Finally, I'm going to leave this up here for a bit. You've gotten this link on the slack, you've gotten this in your email, but one more time. This page has links to the slides of all the presentations you'll see, as well as to the workshop schedule and the github page that has the setup instructions and all the notebooks we'll be working through on this workshop.
 
-Any questions before I pass things off to Oliver to talk about NWB?
+Any questions before I pass things off to Heberto to talk about NWB?
