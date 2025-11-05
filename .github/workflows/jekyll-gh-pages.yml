@@ -45,7 +45,7 @@ jobs:
           # The directory to scan
           directory: "./_site"
           # The arguments to pass to HTMLProofer. swap-urls is because of this issue: https://github.com/gjtorikian/html-proofer/issues/170 and basically turns all absolute links from our site that point to our site into relative. the ignore status code 400,403 is because of twitter
-          arguments: --no-enforce-https --allow_hash_href --ignore-missing-alt --assume_extension --ignore-files '/.+\/assets\/.+/,/.+\/workshops\/.+\/index.html/' --ignore-status-codes 400,403  --swap-urls "https?\:\/\/(localhost\:4000|neurorse\.flatironinstitute\.org):"
+          arguments: --no-enforce-https --allow_hash_href --ignore-missing-alt --assume_extension - --ignore-files '/.+\/assets\/.+/,/.+\/workshops\/.+\/index.html/' --ignore-status-codes 400,403  --swap-urls "https?\:\/\/(localhost\:4000|neurorse\.flatironinstitute\.org):"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
