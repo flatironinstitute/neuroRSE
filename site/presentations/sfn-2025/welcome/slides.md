@@ -17,12 +17,21 @@ but before all that --- couple quick notes:
 
 ## Everyone installed and ready to go?
 
-```
+conda:  <!-- .element: style="margin-top:5%" -->
+```bash
 cd path/to/ccn-software-sfn-2025
 git pull
-conda activate ccn-sfn25 # or however you activate your python environment
+conda activate ccn-sfn25 
 python scripts/setup.py
 python scripts/check_setup.py
+```
+
+uv:  <!-- .element: style="margin-top:5%" -->
+```bash
+cd path/to/ccn-software-sfn-2025
+git pull
+uv run python scripts/setup.py
+uv run python scripts/check_setup.py
 ```
 
 ---
@@ -117,18 +126,18 @@ if you don't have your installation working now, come find one of us at the coff
 ---
 ## Day 2
 
-| Time           | Event                                                              |
-|----------------|--------------------------------------------------------------------|
-| 9 -- 10am      | Breakfast                                                          |
-| 10 -- 10:30am  | Plenoptic advertisement                   |
-| 10:30 -- 11am  | Pynapple advanced                                                  |
-| 11 -- 11:30am  | Coffee break                                                       |
-| 11:30am -- 1pm | **Group project**: Theta phase-precession with hippocampal data    |
-| 1 -- 2pm       | Lunch                                                              |
-| 2 -- 3:30pm    | NeMoS advanced                                                     |
-| 3:30 -- 4pm    | Coffee break                                                       |
-| 4 -- 6pm       | **Group project**: Fitting Visual dataset from the Allen Brain Map |
-| 6 -- 8pm       | Dinner                                                             |
+| Time           | Event                                                                        |
+|----------------|------------------------------------------------------------------------------|
+| 9 -- 10am      | Breakfast                                                                    |
+| 10 -- 10:30am  | Plenoptic advertisement                                                      |
+| 10:30 -- 11am  | Pynapple advanced                                                            |
+| 11 -- 11:30am  | Coffee break                                                                 |
+| 11:30am -- 1pm | **Group project**: Analyzing hippocampal place cells with Pynapple and NeMoS |
+| 1 -- 2pm       | Lunch                                                                        |
+| 2 -- 3:30pm    | NeMoS advanced                                                               |
+| 3:30 -- 4pm    | Coffee break                                                                 |
+| 4 -- 6pm       | **Group project**: Exploring the Allen Institute’s Visual Coding dataset     |
+| 6 -- 8pm       | Dinner                                                                       |
 
 #note: tomorrow is all Generalized Linear Models, all day. We'll start off with Edoardo giving an conceptual overview of the GLM, then I'll walk you through a simple example with some data from the Allen Brain Observatory, Edoardo will come back to walk you through a more involved example with head-direction tuned neurons, then I'll finish the day by discussing how to use nemos with scikit-learn to do model selection and cross-validation
 
@@ -153,7 +162,7 @@ we have folks with a range of neuroscience backgrounds and programming/python sk
 ---
 ## one link to rule them all
 
-[https://neurorse.flatironinstitute.org/workshops/sfn-2025/](https://neurorse.flatironinstitute.org/workshops/sfn-2025/)
+[https://neurorse.flatironinstitute.org/workshops/sfn-2025.html](https://neurorse.flatironinstitute.org/workshops/sfn-2025.html)
 
 #note: Finally, I'm going to leave this up here for a bit. You've gotten this link on the slack, you've gotten this in your email, but one more time. This page has links to the slides of all the presentations you'll see, as well as to the workshop schedule and the github page that has the setup instructions and all the notebooks we'll be working through on this workshop.
 
