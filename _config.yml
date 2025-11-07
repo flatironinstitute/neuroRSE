@@ -32,7 +32,6 @@ plugins:
 
 collections:
   people:
-    output: true
   workshops:
     output: true
   redirects:
@@ -43,12 +42,6 @@ collections:
       - plenoptic.md
       - pynapple.md
       - CCN_Template.md
-
-# redirects from https://github.com/jsware/jekyll-redirect-html
-defaults:
-  -
-    values:
-      layout: redirection
 
 future: true
 markdown: kramdown
