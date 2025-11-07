@@ -64,7 +64,7 @@ Syntax notes for the markdown:
     # switch to presentation, make it full screen, and let the script run through it all
     # switch back to terminal, Ctrl+C to kill the script
     # delete extra screenshots
-    for name in screenshots/*png; do convert $name screenshots/`basename $name .png`.pdf; done
+    for name in screenshots/*png; do magick $name screenshots/`basename $name .png`.pdf; done
     pdftk screenshots/*pdf cat output presentation.pdf
     ```
 
