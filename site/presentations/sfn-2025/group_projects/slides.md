@@ -24,3 +24,19 @@ but before all that --- couple quick notes:
 - When there's 15 minutes left, we'll regroup and share.
 
 #note: no quarterbacking -- if one person is making all the decisions you're doing it wrong
+
+---
+
+## Figure check
+
+![figure check 1](/assets/sfn-2025/figure-check-1.png)
+
+#note: throughout the notebooks, you'll see little "figure check" dropdown admonitions like this. when you click on them...
+
+---
+
+## Figure check
+
+![figure check 2](/assets/sfn-2025/figure-check-2.png)
+
+#note: they'll expand like this, showing a figure. when you run the code directly above the figure check, your figure should look like this, if you've done everything correctly. if not, try to figure out what went wrong, and remember you can always ask for help
