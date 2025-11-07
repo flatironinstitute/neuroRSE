@@ -81,7 +81,28 @@ uv run python scripts/check_setup.py
 
 ## CCN Software
 
-**INSERT GRAPHIC FROM LUCY**
+<div class='column' style="float:left;width:47%">
+
+<img data-src="/assets/pynapple_logo.svg">
+
+- [https://github.com/pynapple-org/pynapple/](https://github.com/pynapple-org/pynapple/)
+- light-weight python library for neurophysiological data analysis
+
+<img style="margin-top:3%" data-src="/assets/nemos_logo.svg">
+
+- [https://github.com/flatironinstitute/nemos](https://github.com/flatironinstitute/nemos)
+- statistical modeling framework for systems neuroscience
+
+</div>
+
+<div class='column' style="float:right;width:47%">
+
+<img style="margin-bottom:3%" data-src="/assets/plenoptic_logo.svg">
+
+- [https://github.com/plenoptic-org/plenoptic/](https://github.com/plenoptic-org/plenoptic/)
+- model-based synthesis of perceptual stimuli
+
+</div>
 
 ---
 
