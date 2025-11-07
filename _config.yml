@@ -44,13 +44,11 @@ collections:
       - pynapple.md
       - CCN_Template.md
 
-# redirects from https://github.com/jekylltools/jekyll-redirect-layout
+# redirects from https://github.com/jsware/jekyll-redirect-html
 defaults:
   -
-    scope:
-      type: redirects
     values:
-      layout: redirect
+      layout: redirection
 
 future: true
 markdown: kramdown
