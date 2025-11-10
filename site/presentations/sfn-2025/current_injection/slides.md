@@ -1,7 +1,6 @@
 # Basic Generalized Linear Models with NeMoS
 
 ## Billy Broderick
-## Jan 2025
 
 #note: welcome back everyone. I hope everyone's refreshed, caffeinated, and excited for modeling. I'm Billy, one of the developers of nemos, and from now until lunch, we're going to learn the basics of fitting a GLM with NeMoS, before Edoardo comes back and shows a more indepth example
 

@@ -1,7 +1,6 @@
 # scikit-learn and nemos
 
 ## Billy Broderick
-## Jan 2025
 
 ---
 
