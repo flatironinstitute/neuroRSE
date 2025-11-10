@@ -2,12 +2,8 @@
 
 ![image](/assets/sfn2025-banner.svg)
 
-#note: welcome everyone to the CCN software workshop! we're excited to have you here. I'm Billy Broderick, one of the members of the neuroRSE team. Before we get started, I'm going to have the speakers and TAs introduce themselves. then we'll go around and have everyone introduce themselves. I'll finish up by giving an overview of our schedule, and then we'll get started!
-
-but before all that --- couple quick notes:
-
-- we're planning on taking some photos at this workshop, which we'll post on twitter or our websites. if you don't want your photo included there, just let one of us know
-- has everyone run setup.py? did they see my slack message yesterday about `pip install -e .`?
+#note: welcome back everyone, last session of the day
+- guinea pigs, give us feedback
 
 ---
 
@@ -40,3 +36,27 @@ but before all that --- couple quick notes:
 ![figure check 2](/assets/sfn-2025/figure-check-2.png)
 
 #note: they'll expand like this, showing a figure. when you run the code directly above the figure check, your figure should look like this, if you've done everything correctly. if not, try to figure out what went wrong, and remember you can always ask for help
+
+---
+
+## Pairs
+
+- Violet Ivan; Yun Zhu
+- Edward Rivera; Asha Caslin
+- Todd Appleby; Hung Lo
+- Shuting Wang; Zach Fyke
+- Julia Brzac; May Chan
+- Garrett Blair; Esther Lara Gonzalez
+- Pedram Rajaei; Shuqiang Chen
+- Camilo Castelblanco Riveros; Zihua Chen
+- Julian Wagner-Carena; Dora Balog
+- Robert Woodry; Chong Wang
+- Adrian Duszkiewicz; Anuj Vadher
+- Kunpeng Yu; Andrea Gaspert
+- Francesco Gobbo; Gergely Katona
+- Dinesh Natesan; Ethan Blackwood
+- Tuguldur Gerelmaa; Heberto Mayorquin
+
+<!-- .element: class="two-columns-text" -->
+
+#note: we'll send in slack as well but hear are the pairs

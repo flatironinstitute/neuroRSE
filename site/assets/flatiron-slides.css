@@ -457,6 +457,10 @@ div.two-column {
   align-items: center;
   justify-content: space-between;
 }
+.two-columns-text {
+  column-count: 2;
+  column-gap: 3em;
+}
 .grid-item > pre {
   margin: 0;
   width: 100%;
