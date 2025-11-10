@@ -128,17 +128,17 @@ Okay, let's go through everyone else from top left to bottom right: Jessica?
 ---
 ## Day 1
 
-| Time           | Event                                                                  |
-|----------------|------------------------------------------------------------------------|
-| 9 -- 10am      | Breakfast                                                              |
-| 10 -- 11am     | Welcome and introduction to data standards                             |
-| 11 -- 11:30am  | Coffee break                                                           |
-| 11:30am -- 1pm | Pynapple core                                                          |
-| 1 -- 2pm       | Lunch                                                                  |
-| 2 -- 3:30pm    | NeMoS core                                                             |
-| 3:30 -- 4pm    | Coffee break                                                           |
-| 4 -- 5:45pm    | **Group project**: Fit head-direction population with Pynapple & Nemos |
-| 6 -- 8pm       | Dinner                                                                 |
+| Time           | Event                                                                        |
+|----------------|------------------------------------------------------------------------------|
+| 9 -- 10am      | Breakfast                                                                    |
+| 10 -- 11am     | Welcome and introduction to data standards                                   |
+| 11 -- 11:30am  | Coffee break                                                                 |
+| 11:30am -- 1pm | Pynapple core                                                                |
+| 1 -- 2pm       | Lunch                                                                        |
+| 2 -- 4pm       | NeMoS core                                                                   |
+| 4 -- 4:30pm    | Coffee break                                                                 |
+| 4:30 -- 6pm    | **Group project**: Analyzing head-direction population with Pynapple & Nemos |
+| 6 -- 8pm       | Dinner at hotel                                                              |
 
 #note: Excellent. so, up next, we're going to hear from Heberto talking about the NWB data standard, then the rest of the day will be Guillaume and Sarah Jo talking about pynapple, alternating between presentations and hands-on exercises.
 
@@ -158,7 +158,7 @@ if you don't have your installation working now, come find one of us at the coff
 | 2 -- 3:30pm    | NeMoS advanced                                                               |
 | 3:30 -- 4pm    | Coffee break                                                                 |
 | 4 -- 6pm       | **Group project**: Exploring the Allen Institute’s Visual Coding dataset     |
-| 6 -- 8pm       | Dinner                                                                       |
+| 6:30 -- 8pm    | Dinner at Puesto (789 West Harbor Drive)                                     |
 
 #note: tomorrow is all Generalized Linear Models, all day. We'll start off with Edoardo giving an conceptual overview of the GLM, then I'll walk you through a simple example with some data from the Allen Brain Observatory, Edoardo will come back to walk you through a more involved example with head-direction tuned neurons, then I'll finish the day by discussing how to use nemos with scikit-learn to do model selection and cross-validation
 
