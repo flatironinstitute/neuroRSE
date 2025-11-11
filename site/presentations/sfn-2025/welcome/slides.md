@@ -131,7 +131,8 @@ Okay, let's go through everyone else from top left to bottom right: Jessica?
 | Time           | Event                                                                        |
 |----------------|------------------------------------------------------------------------------|
 | 9 -- 10am      | Breakfast                                                                    |
-| 10 -- 11am     | Welcome and introduction to data standards                                   |
+| 10 -- 10:30am  | Welcome                                                                      |
+| 10:30 -- 11am  | Introduction to data standards                                               |
 | 11 -- 11:30am  | Coffee break                                                                 |
 | 11:30am -- 1pm | Pynapple core                                                                |
 | 1 -- 2pm       | Lunch                                                                        |
