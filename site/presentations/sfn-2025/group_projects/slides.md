@@ -39,23 +39,23 @@
 
 ---
 
-## Pairs
+## Groups
 
 - Violet Ivan; Yun Zhu
-- Edward Rivera; Asha Caslin
-- Todd Appleby; Hung Lo
-- Shuting Wang; Zach Fyke
-- Julia Brzac; May Chan
-- Garrett Blair; Esther Lara Gonzalez
-- Pedram Rajaei; Shuqiang Chen
+- Francesco Gobbo; Gergely Katona
+- <!-- .element: style="margin-top:5%" --> Edward Rivera; Asha Caslin
+- Tuguldur Gerelmaa; Heberto Mayorquin
+- <!-- .element: style="margin-top:5%" --> Todd Appleby; Hung Lo
+- Dinesh Natesan; Ethan Blackwood
+- <!-- .element: style="margin-top:5%" --> Shuting Wang; Zach Fyke
+- Robert Woodry; Chong Wang
+- <!-- .element: style="margin-top:5%" --> Julia Brzac; May Chan
+- Adrian Duszkiewicz; Anuj Vadher
+- <!-- .element: style="margin-top:5%" --> Garrett Blair; Esther Lara Gonzalez
+- Kunpeng Yu; Andrea Gaspert
+- <!-- .element: style="margin-top:5%" --> Pedram Rajaei; Shuqiang Chen
 - Camilo Castelblanco Riveros; Zihua Chen
 - Julian Wagner-Carena; Dora Balog
-- Robert Woodry; Chong Wang
-- Adrian Duszkiewicz; Anuj Vadher
-- Kunpeng Yu; Andrea Gaspert
-- Francesco Gobbo; Gergely Katona
-- Dinesh Natesan; Ethan Blackwood
-- Tuguldur Gerelmaa; Heberto Mayorquin
 
 <!-- .element: class="two-columns-text" -->
 
