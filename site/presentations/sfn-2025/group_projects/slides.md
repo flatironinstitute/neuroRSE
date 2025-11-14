@@ -44,9 +44,9 @@
 - Violet Ivan; Yun Zhu
 - Francesco Gobbo; Gergely Katona
 - <!-- .element: style="margin-top:5%" --> Edward Rivera; Asha Caslin
-- Tuguldur Gerelmaa; Heberto Mayorquin
+- Tuguldur Gerelmaa; Ethan Blackwood
 - <!-- .element: style="margin-top:5%" --> Todd Appleby; Hung Lo
-- Dinesh Natesan; Ethan Blackwood
+- Dinesh Natesan; Heberto Mayoqruin
 - <!-- .element: style="margin-top:5%" --> Shuting Wang; Zach Fyke
 - Robert Woodry; Chong Wang
 - <!-- .element: style="margin-top:5%" --> Julia Brzac; May Chan
