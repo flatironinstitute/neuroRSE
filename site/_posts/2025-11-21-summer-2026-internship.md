@@ -9,7 +9,8 @@ Come work with us on an open source neuroscience software package in Manhattan f
 [Apply here by Jan 16!](https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccn) The job ad will go live in early December.
 
 ## What would you work on?
-The specific project you will work on will be determined in close consultation with your mentor, a member of the NeuroRSE team. This process will involve finding a good fit between your interests/background and the goals set out in the roadmap for the package you are working on. You can check out the GitHub repositories for each package below to get a sense of the range of possibilities. It is okay if you are not sure exactly what you want to work on before you start; we do not expect applicants to have experience with the packages before applying. 
+
+Interns in our group will spend the summer working on scientific software (rather than a novel research project). The specific project you will work on will be determined in close consultation with your mentor, a member of the NeuroRSE team. This process will involve finding a good fit between your interests/background and the goals set out in the roadmap for the package you are working on. You can check out the GitHub repositories for each package below to get a sense of the range of possibilities. It is okay if you are not sure exactly what you want to work on before you start; we do not expect applicants to have experience with the packages before applying. 
 
 ## Software packages
 The three software packages that are currently in development at CCN are: 
@@ -38,14 +39,14 @@ We *do not* expect you to already be an expert in both neuroscience and software
 
 ## Anything else I should know?
 - The application to work with the NeuroRSE team will be part of the broader CCN intern application. If you specifically want to work with us, **please mention** that in your application, as well as one or two packages from the above list that you would be interested in working on, and why.
-- If you do an internship with the NeuroRSE team, you will spend the summer working on scientific software, not working towards a research application. When we read your application, one of the things we look for is whether you are interested in working on and learning about software, so make that clear! If your application only talks about your research interests with no mention of software, we will assume you do not actually want to work with us.
+- If you do an internship with the NeuroRSE team, you will spend the summer working on scientific software, not working towards a research application. **When we read your application, one of the things we look for is whether you are interested in working on and learning about software, so make that clear!** If your application only talks about your research interests with no mention of software, we will assume you do not actually want to work with us.
 - If you have a GitHub, GitLab, or similar profile, please include a link to the profile in your application. If you have a specific project or two that is particularly relevant, please include a link to those as well.
 
 ## Fine print
 Elibigle to current students at Bachelor's level or above. You will be paid $20 - $28 per hour, depending on your level of experience. Travel, housing, and meals will be provided for all interns. We especially encourage applications from underrepresented populations in the open-source community. 
 
 ## To apply
-To submit an application, please visit [the Simons website](https://apply.interfolio.com/159680). Deadline for application is **January 16, 2026**. Applications are structured so that you need to put a PI at CCN as primary group and NeuroRSE as secondary group: the written part of the application will clarify your intentions to work on software development. While it is not essential, we recommend that if you are most interested in working on Nemos that you put Alex Williams as the primary group; those interested in Plenoptic or Pynapple should list Eero Simoncelli. 
+To submit an application, please visit [the Simons website](https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccn). Deadline for application is **January 16, 2026**. Applications are structured so that you need to put a PI at CCN as primary group and NeuroRSE as secondary group: the written part of the application will clarify your intentions to work on software development. While it is not essential, we recommend that if you are most interested in working on Nemos that you put Alex Williams as the primary group; those interested in Plenoptic or Pynapple should list Eero Simoncelli. 
 
 ## Who are we?
 
