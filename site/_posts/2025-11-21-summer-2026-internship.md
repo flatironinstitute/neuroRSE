@@ -6,7 +6,7 @@ categories: events
 
 Come work with us on an open source neuroscience software package in Manhattan for a summer! The  [NeuroRSE team](https://neurorse.flatironinstitute.org/) at the Flatiron Institute Center for Computational Neuroscience is looking for paid interns for Summer 2026. Interns will spend the summer living and working in New York City. 
 
-[Apply here by Jan 16!](https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccn) The job ad will go live in early December.
+[Apply here by Jan 16!](https://apply.interfolio.com/177775) The job ad will go live in early December.
 
 ## What would you work on?
 
@@ -46,7 +46,7 @@ We *do not* expect you to already be an expert in both neuroscience and software
 Elibigle to current students at Bachelor's level or above. You will be paid $20 - $28 per hour, depending on your level of experience. Travel, housing, and meals will be provided for all interns. We especially encourage applications from underrepresented populations in the open-source community. 
 
 ## To apply
-To submit an application, please visit [the Simons website](https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccn). Deadline for application is **January 16, 2026**. Applications are structured so that you need to put a PI at CCN as primary group and NeuroRSE as secondary group: the written part of the application will clarify your intentions to work on software development. While it is not essential, we recommend that if you are most interested in working on Nemos that you put Alex Williams as the primary group; those interested in Plenoptic or Pynapple should list Eero Simoncelli. 
+To submit an application, please visit [the Simons website](https://apply.interfolio.com/177775). Deadline for application is **January 16, 2026**. Applications are structured so that you need to put a PI at CCN as primary group and NeuroRSE as secondary group: the written part of the application will clarify your intentions to work on software development. While it is not essential, we recommend that if you are most interested in working on Nemos that you put Alex Williams as the primary group; those interested in Plenoptic or Pynapple should list Eero Simoncelli. 
 
 ## Who are we?
 
