@@ -39,24 +39,73 @@
 
 ---
 
-## Groups
+## Day 1 Pairs
 
-- Violet Ivan; Yun Zhu
-- Francesco Gobbo; Gergely Katona
-- <!-- .element: style="margin-top:5%" --> Edward Rivera; Asha Caslin
-- Tuguldur Gerelmaa; Ethan Blackwood
-- <!-- .element: style="margin-top:5%" --> Todd Appleby; Hung Lo
-- Dinesh Natesan; Heberto Mayoqruin
-- <!-- .element: style="margin-top:5%" --> Shuting Wang; Zach Fyke
-- Robert Woodry; Chong Wang
-- <!-- .element: style="margin-top:5%" --> Julia Brzac; May Chan
-- Adrian Duszkiewicz; Anuj Vadher
-- <!-- .element: style="margin-top:5%" --> Garrett Blair; Esther Lara Gonzalez
-- Kunpeng Yu; Andrea Gaspert
-- <!-- .element: style="margin-top:5%" --> Pedram Rajaei; Shuqiang Chen
-- Camilo Castelblanco Riveros; Zihua Chen
-- Julian Wagner-Carena; Dora Balog
+- Juan Pablo Marquez Gutierrez, Alexandra Sokolowski
+- Ariana Tortolani, Aya Akhmetzhanova
+- Daniel Woods, Destynie Medeiros
+- Morgan Corniquel, Mutian Li
+- Rebecca Suthard, Ruotong Li
+- Siyu Wang, Sukriti Gupta
+- Leandro Aguiar, Andrea Cumpelik
+- Archit Gupta, Arthur Prat-Carrabin
+- Autumn Mallory, Bridgette Gifford
+- Charles Huang, Guoning Yu
+- Jiahuan Liu, Kai Ding
+- Kayla Vokt, Per-Niklas Barth
+- Skyler Thomas, Srividya Pattisapu
+- Wynne Stagnaro, Yunchang Zhang
+- Kathleen Esfahany, Peter Hogg
+- Sidney Rafilson, Nilesh Jain
 
 <!-- .element: class="two-columns-text" -->
 
-#note: we'll send in slack as well but hear are the pairs
+#note: we'll send in slack as well but here are the pairs
+
+---
+
+## Day 2 Pairs
+- Morgan Corniquel, Ruotong Li
+- Aya Akhmetzhanova, Destynie Medeiros
+- Daniel Woods, Mutian Li
+- Ariana Tortolani, Siyu Wang
+- Rebecca Suthard, Juan Pablo Marquez Gutierrez
+- Alexandra Sokolowski, Sukriti Gupta
+- Leandro Aguiar, Yunchang Zhang
+- Per-Niklas Barth, Arthur Prat-Carrabin
+- Wynne Stagnaro, Srividya Pattisapu
+- Skyler Thomas, Jiahuan Liu
+- Andrea Cumpelik, Guoning Yu
+- Bridgette Gifford, Kai Ding
+- Charles Huang, Kayla Vokt
+- Autumn Mallory, Archit Gupta
+- Kathleen Esfahany, Nilesh Jain
+- Sidney Rafilson, Peter Hogg
+
+<!-- .element: class="two-columns-text" -->
+
+#note: we'll send in slack as well but here are the pairs
+
+---
+
+## Day 3 Pairs
+- Ariana Tortolani, Rebecca Suthard
+- Daniel Woods, Alexandra Sokolowski
+- Ruotong Li, Morgan Corniquel
+- Juan Pablo Marquez Gutierrez, Sukriti Gupta
+- Siyu Wang, Aya Akhmetzhanova
+- Destynie Medeiros, Mutian Li
+- Autumn Mallory, Kai Ding
+- Skyler Thomas, Arthur Prat-Carrabin
+- Guoning Yu, Archit Gupta
+- Leandro Aguiar, Wynne Stagnaro
+- Kayla Vokt, Andrea Cumpelik
+- Per-Niklas Barth, Yunchang Zhang
+- Charles Huang, Jiahuan Liu
+- Srividya Pattisapu, Bridgette Gifford
+- Nilesh Jain, Peter Hogg
+- Kathleen Esfahany, Sidney Rafilson
+
+<!-- .element: class="two-columns-text" -->
+
+#note: we'll send in slack as well but here are the pairs
