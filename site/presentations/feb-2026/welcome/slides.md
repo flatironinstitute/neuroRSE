@@ -227,7 +227,7 @@ the work that went into this was done with a variety of packages from the open-s
 
 ## one link to rule them all
 
-[https://neurorse.flatironinstitute.org/workshops/sfn-2025.html](https://neurorse.flatironinstitute.org/workshops/sfn-2025.html)
+[https://neurorse.flatironinstitute.org/workshops/feb-2026.html](https://neurorse.flatironinstitute.org/workshops/feb-2026.html)
 
 #note: Finally, I'm going to leave this up here for a bit. You've gotten this link on the slack, you've gotten this in your email, but one more time. This page has links to the slides of all the presentations you'll see, as well as to the workshop schedule and the github page that has the setup instructions and all the notebooks we'll be working through on this workshop.
 

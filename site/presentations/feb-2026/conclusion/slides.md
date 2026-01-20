@@ -61,6 +61,7 @@ NeMoS:
 ## Doing this again in July at FENS
 
 ### Applications open in March! <!-- .element: style="margin-top:1%;margin-bottom:2%;text-align:center" -->
+### (For applicants based in Europe / Africa) <!-- .element: style="margin-top:1%;margin-bottom:2%;text-align:center" -->
 
 #note: we run these workshops regularly, and we'll have another one in February. details can be found on our website or at this qr code -- if you found this workshop valuable, please let your friends and labmates know. applications close next Thursday, so don't delay!
 
