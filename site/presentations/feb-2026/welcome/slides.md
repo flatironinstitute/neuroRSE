@@ -108,13 +108,20 @@ uv run python scripts/check_setup.py
 
 ## Workshop staff
 
-![image](/assets/sfn-2025/speakers.svg)
+![image](/assets/feb-2026/speakers.svg)
 
 #note: Okay, with all that out of the way, let's introduce who's here for this workshop. These are the people you can ask questions to if you have logistical or technical problems. I'm going to have us all go around and introduce ourselves briefly, saying who we are, where we are, what we work on, and one non-science fact about ourselves.
 
 Since I'm standing up here, I'll go first: I'm Billy Broderick, I'm one of the members of the neuroRSE group I just mentioned. I'm one of the developers for nemos, and I'm the main developer for plenoptic, which we're not actually discussing here, but is a package for generating stimuli to better understand computational models of perceptual systems. If you're interested, happy to talk more about this, come find me. My non science fact is: I'm actually recently back from parental leave; I have a 15 week old daughter at home. so I'm really looking forward to getting a full nights uninterrupted sleep while I'm Vienna. And I have about a million photos, if anyone wants to see.
 
-Okay, let's go through everyone else from top left to bottom right: Jessica?
+
+---
+
+## Workshop staff
+
+![image](/assets/feb-2026/speakers.svg)
+
+#note: we're going to have slightly different sets of TAs for the next two days, so I'm going to flash their faces up here so you don't get confused when you see new faces tomorrow morning.
 
 ---
 
