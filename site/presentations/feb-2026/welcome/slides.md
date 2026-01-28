@@ -36,42 +36,7 @@ uv run python scripts/check_setup.py
 
 ---
 
-## What is Flatiron?
-
-<div data-animate data-load="/assets/fens-2024/flatiron.svg" crossorigin="anonymous">
-<!-- {"setup": [
-{"element": "#g715", "modifier": "attr", "parameters": [ {"class": "fragment appear-disappear", "data-fragment-index": "0"} ]}
-]} -->
-</div>
-
-#note: so apologies to those who know already, but I thought I'd take a moment to explain who we are. We are employees of the Flatiron Institute. If you've heard "Flatiron" before, you're probably thinking of this iconic building in Manhattan, the Flatiron Building
-
-**click**. unfortunately, we're not in that building. we're about 2 blocks from there -- the neighborhood around this building is known as the Flatiron district, hence the name. I think every employee goes through a moment of disappointment when they realize they won't be working here. we have interns every summer, and a fair number of the interns every summer show up at the Flatiron building and were very confused. especially because the building is currently empty, due to some weirdness over the ownership
-
----
-
-## The Real Flatiron Institute
-
-![image](/assets/fens-2024/flatiron-institute.png)
-
-#note: we are part of this Flatiron institute, which is part of the Simons Foundation. the Simons Foundation is a private foundation whose money comes from Jim Simons, a mathematician and hedge fund billionaire who recnetly passed away. it funds a variety of projects in the maths and sciences, especially computational research, and the Flatiron institute is the in-house research center.
-
----
-## The Real Flatiron Institute
-
-![image](/assets/fens-2024/flatiron-centers.png)
-
-#note: Flatiron has five centers, one each for computational astrophysics, biology, mathematics, neuroscience, and quantum physics, plus the scientific computing core, who supports the cluster and other computational infrastructure that the other centers use.
-
----
-## The Real Flatiron Institute
-
-![image](/assets/fens-2024/flatiron-ccn.png)
-
-#note: Mots of the speakers and TAs here are part of the Center for Computational Neuroscience, the newest center at Flatiron, which has four research groups doing different types of computational neuroscience work, with grad students from NYU, postdocs and research scientists, along with summer interns.
-
----
-## The Real Flatiron Institute
+## NeuroRSE
 
 ![image](/assets/sfn-2025/neurorse.png)
 
@@ -119,7 +84,7 @@ Since I'm standing up here, I'll go first: I'm Billy Broderick, I'm one of the m
 
 ## Workshop staff
 
-![image](/assets/feb-2026/speakers.svg)
+![image](/assets/feb-2026/tas.svg)
 
 #note: we're going to have slightly different sets of TAs for the next two days, so I'm going to flash their faces up here so you don't get confused when you see new faces tomorrow morning.
 
