@@ -137,15 +137,15 @@ Since I'm standing up here, I'll go first: I'm Billy Broderick, I'm one of the m
 
 | Time                 | Event                                                                             |
 |----------------------|-----------------------------------------------------------------------------------|
-| 8:30 AM -- 10 AM     | Check-In, Installation, and Breakfast                                             |
-| 10:00 AM -- 11:00 AM | Welcome and introduction to data standards                                        |
+| 8:30 AM -- 9:50 AM   | Check-In, Installation, and Breakfast                                             |
+| 9:50 AM -- 11:00 AM  | Welcome and introduction to data standards                                        |
 | 11:00 AM -- 11:30 AM | Coffee Break                                                                      |
 | 11:30 AM -- 1:00 PM  | Pynapple core                                                                     |
 | 1:00 PM -- 2:00 PM   | Lunch                                                                             |
 | 2:00 PM -- 3:30 PM   | Guided introduction to Pynapple API                                               |
 | 3:30 PM -- 4:00 PM   | Coffee Break                                                                      |
 | 4:00 PM -- 5:45 PM   | **Breakout groups**: Further analyses of head-direction populations with Pynapple |
-| 6:00 PM -- 8:00 PM   | Dinner                                                                            |
+| 6:00 PM -- 8:00 PM   | Dinner at Blackbarn, 19 E 26th St, New York                                       |
 
 #note: Excellent. so, up next, we're going to hear from Ben talking about the NWB data standard, then the rest of the day will be Guillaume and Sarah Jo talking about pynapple, alternating between presentations and hands-on exercises.
 
@@ -164,7 +164,7 @@ if you don't have your installation working now, come find one of us at the coff
 | 2:00 PM -- 3:30 PM   | **Breakout groups**: Modeling head-direction populations with NeMoS         |
 | 3:30 PM -- 4:00 PM   | Coffee Break                                                                |
 | 4:30 PM -- 6:00 PM   | **Breakout groups**: Analyzing Calcium Imaging data with Pynapple and NeMoS |
-| 6:00 PM -- 8:00 PM   | Dinner                                                                      |
+| 6:00 PM -- 8:00 PM   | Dinner at Casa Carmen, 5 W 21st St, New York                                |
 
 #note: tomorrow is all Generalized Linear Models, all day. We'll start off with Edoardo giving an conceptual overview of the GLM, then I'll walk you through a simple example with some data from the Allen Brain Observatory, Edoardo will come back to walk you through a more involved example with head-direction tuned neurons, then I'll finish the day by discussing how to use nemos with scikit-learn to do model selection and cross-validation
 
@@ -182,7 +182,7 @@ if you don't have your installation working now, come find one of us at the coff
 | 2:00 PM -- 3:30 PM   | Model and Feature selection with place cell data                                                     |
 | 3:30 PM -- 4:00 PM   | Coffee Break                                                                                         |
 | 4:00 PM -- 6:00 PM   | **Choose Your Own Adventure**: bring your own data / analyze Allen Institute's Visual Coding dataset |
-| 6:00 PM -- 8:00 PM   | Dinner                                                                                               |
+| 6:00 PM -- 8:00 PM   | Dinner at Barlume, 900 Broadway, New York                                                            |
 
 ---
 
