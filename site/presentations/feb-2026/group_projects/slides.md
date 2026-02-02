@@ -10,10 +10,10 @@
 ## Group project structure
 
 - You will work in pairs (will send over slack).
-- Each pair will form a pod with 1 or 2 other pairs and an instructor / TA.
+- Instructors and TAs circulate.
 - Each pair will work through the group project notebook, found in `notebooks/group_projects/`.
 - Each person in a pair should spend time typing: either alternate who's driving or each type into your own copy.
-- If you get stuck, as the other pairs in your pod and / or instructor / TA.
+- If you get stuck, ask the other pairs around you and / or raise your hand for instructor / TA.
 - This is cooperative and everyone has something to contribute.
 - Think out loud and consult with each other.
 - You might not get through the whole notebook --- that's okay! You will still learn how to use these packages to analyze real neuroscience.

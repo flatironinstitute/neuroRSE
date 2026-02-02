@@ -28,6 +28,7 @@ NeMoS:
 - `Regularizers`:
   - `GroupLasso`: apply Lasso (L1) regularization group-wise
   - `ElasticNet`: combine L1 and L2 regularization
+- `ClassifierGLM`: predict categorical observations, e.g., behavioral choices.
 
 </div>
 

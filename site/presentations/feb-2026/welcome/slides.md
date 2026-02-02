@@ -36,13 +36,6 @@ uv run python scripts/check_setup.py
 
 ---
 
-## NeuroRSE
-
-![image](/assets/sfn-2025/neurorse.png)
-
-#note: And most of the speakers you're going to hear from over the next two days are from the neuroRSE, or research software engineering, group within CCN. We're a group of full time research scientists whose only job is to build and maintain open source python packages for neuroscience research, including pynapple and nemos.
-
----
 
 ## CCN Software
 
