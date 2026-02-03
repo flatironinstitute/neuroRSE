@@ -56,7 +56,7 @@
 - Skyler Thomas, Srividya Pattisapu
 - Wynne Stagnaro, Yunchang Zhang
 - Kathleen Esfahany, Peter Hogg
-- Sidney Rafilson, Nilesh Jain
+- Nilesh Jain
 
 <!-- .element: class="two-columns-text" -->
 
@@ -80,7 +80,7 @@
 - Charles Huang, Kayla Vokt
 - Autumn Mallory, Archit Gupta
 - Kathleen Esfahany, Nilesh Jain
-- Sidney Rafilson, Peter Hogg
+- Peter Hogg
 
 <!-- .element: class="two-columns-text" -->
 
@@ -104,7 +104,7 @@
 - Charles Huang, Jiahuan Liu
 - Srividya Pattisapu, Bridgette Gifford
 - Nilesh Jain, Peter Hogg
-- Kathleen Esfahany, Sidney Rafilson
+- Kathleen Esfahany
 
 <!-- .element: class="two-columns-text" -->
 
