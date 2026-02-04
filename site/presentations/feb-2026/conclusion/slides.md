@@ -38,7 +38,9 @@ NeMoS:
 <div class='column' style="float:left;width:50%;margin-top:10%">
 
 - <!-- .element: class="fragment appear" --> We want to know what you do with our packages!
+- <!-- .element: class="fragment appear" --> (Citing helps with this.)
 - <!-- .element: class="fragment appear" --> Especially if you use them in a context not covered here or in our documentation.
+- <!-- .element: class="fragment appear" --> We have internships every summer.
 
 </div>
 <div class='column fragment appear' style="float:right;width:50%;margin-top:10%">
