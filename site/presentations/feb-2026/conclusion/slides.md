@@ -59,6 +59,13 @@ NeMoS:
 #note: all of these packages are on github, and we're always excited to get more people involved. you can ask us questions on github, open issues if you run into problems, and keep an eye on what we're up to
 
 ---
+## Research Software Engineering
+
+https://us-rse.org
+
+![](/assets/us-rse.png)
+
+---
 ## Doing this again in July at FENS
 
 ### Applications open in March! <!-- .element: style="margin-top:1%;margin-bottom:2%;text-align:center" -->
