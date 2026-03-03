@@ -20,4 +20,4 @@ We will be at VSS presenting about plenoptic in two different events:
 
 Reach out to us at `neurorse [at] flatironinstitute.org` with any questions or if you would like to meet up to discuss how to use plenoptic in your research!
 
-**Disclaimer:** Like all [satellite and social events](https://www.visionsciences.org/satellite-events/), this event is neither sponsored nor endorsed by VSS.
+**Disclaimer:** Like all [satellite and social events](https://www.visionsciences.org/2025-satellite-events/), this event is neither sponsored nor endorsed by VSS.
