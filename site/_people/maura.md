@@ -1,7 +1,6 @@
 ---
 name: Camila Maura
 short_name: maura
-external_url: https://www.linkedin.com/in/camila-maura/
 picture: /assets/maura.jpg
 job: Master's Student, Sorbonne Université & Université Paris Cité
 ---
