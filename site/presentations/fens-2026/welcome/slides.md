@@ -1,6 +1,6 @@
 # Flatiron CCN Software workshop
 
-![image](/assets/jan2025-banner.svg)
+![image](/assets/fens2026-banner.svg)
 
 #note: welcome everyone to the CCN software workshop! we're excited to have you here. I'm Billy Broderick, one of the members of the neuroRSE team. Before we get started, I'm going to have the speakers and TAs introduce themselves. then we'll go around and have everyone introduce themselves. I'll finish up by giving an overview of our schedule, and then we'll get started!
 
@@ -19,16 +19,16 @@ but before all that --- couple quick notes:
 
 conda:  <!-- .element: style="margin-top:5%" -->
 ```bash
-cd path/to/ccn-software-feb-2026
+cd path/to/ccn-software-fens-2026
 git pull
-conda activate ccn-feb26 
+conda activate ccn-fens26 
 python scripts/setup.py
 python scripts/check_setup.py
 ```
 
 uv:  <!-- .element: style="margin-top:5%" -->
 ```bash
-cd path/to/ccn-software-feb-2026
+cd path/to/ccn-software-fens-2026
 git pull
 uv run python scripts/setup.py
 uv run python scripts/check_setup.py
@@ -66,20 +66,11 @@ uv run python scripts/check_setup.py
 
 ## Workshop staff
 
-![image](/assets/feb-2026/speakers.svg)
+![image](/assets/fens-2026/speakers.svg)
 
 #note: Okay, with all that out of the way, let's introduce who's here for this workshop. These are the people you can ask questions to if you have logistical or technical problems. I'm going to have us all go around and introduce ourselves briefly, saying who we are, where we are, what we work on, and one non-science fact about ourselves.
 
 Since I'm standing up here, I'll go first: I'm Billy Broderick, I'm one of the members of the neuroRSE group I just mentioned. I'm one of the developers for nemos, and I'm the main developer for plenoptic, which we're not actually discussing here, but is a package for generating stimuli to better understand computational models of perceptual systems. If you're interested, happy to talk more about this, come find me. My non science fact is: I'm actually recently back from parental leave; I have a 15 week old daughter at home. so I'm really looking forward to getting a full nights uninterrupted sleep while I'm Vienna. And I have about a million photos, if anyone wants to see.
-
-
----
-
-## Workshop staff
-
-![image](/assets/feb-2026/tas.svg)
-
-#note: we're going to have slightly different sets of TAs for the next two days, so I'm going to flash their faces up here so you don't get confused when you see new faces tomorrow morning.
 
 ---
 
@@ -95,15 +86,18 @@ Since I'm standing up here, I'll go first: I'm Billy Broderick, I'm one of the m
 
 | Time                 | Event                                                                             |
 |----------------------|-----------------------------------------------------------------------------------|
-| 8:30 AM -- 9:50 AM   | Check-In, Installation, and Breakfast                                             |
-| 9:50 AM -- 11:00 AM  | Welcome and introduction to data standards                                        |
-| 11:00 AM -- 11:30 AM | Coffee Break                                                                      |
-| 11:30 AM -- 1:00 PM  | Pynapple core                                                                     |
-| 1:00 PM -- 2:00 PM   | Lunch                                                                             |
-| 2:00 PM -- 3:30 PM   | Guided introduction to Pynapple API                                               |
-| 3:30 PM -- 4:00 PM   | Coffee Break                                                                      |
-| 4:00 PM -- 5:45 PM   | **Breakout groups**: Further analyses of head-direction populations with Pynapple |
-| 6:00 PM -- 8:00 PM   | Dinner at Blackbarn, 19 E 26th St, New York                                       |
+| 9 -- 10am               | Breakfast                                                                                                                    |
+| 10 -- 10:30am           | Welcome                                                                                                                      |
+| 10:30 -- 11:15am        | Introduction to Pynapple (Guillaume)                                                                                         |
+| 11:15 -- 11:45am        | Coffee break                                                                                                                 |
+| 11:45am -- 12:30pm      | Pynapple API guided tour (Sarah Jo)                                                                                          |
+| 12:30 -- 1pm            | [Plenoptic](https://plenoptic.org) advertisement                                                                             |
+| 1 -- 2pm                | Lunch                                                                                                                        |
+| 2 -- 2:45pm             | Conceptual Introduction to Generalized Linear Models (Edoardo)                                                               |
+| 2:45 -- 4pm             | Fitting Basic GLMs with NeMoS (Billy)                                                                                        |
+| 4 -- 4:30pm             | Coffee break                                                                                                                 |
+| 4:30 -- 6pm             | **Group project**: Analyzing single head-direction neuron with Pynapple & Nemos (+ Calcium imaging)                          |
+| 6 -- 8pm                | Dinner                                                                                                                       |
 
 #note: Excellent. so, up next, we're going to hear from Ben talking about the NWB data standard, then the rest of the day will be Guillaume and Sarah Jo talking about pynapple, alternating between presentations and hands-on exercises.
 
@@ -114,33 +108,17 @@ if you don't have your installation working now, come find one of us at the coff
 
 | Time                 | Event                                                                       |
 |----------------------|-----------------------------------------------------------------------------|
-| 9:00 AM -- 10:00 AM  | Breakfast                                                                   |
-| 10:00 AM -- 11:00 AM | Intro to GLM                                                                |
-| 11:00 AM -- 11:30 AM | Coffee Break                                                                |
-| 11:30 AM -- 1:00 PM  | Fitting a basic GLM to single neuron patch-clamp recordings                 |
-| 1:00 PM -- 2:00 PM   | Lunch                                                                       |
-| 2:00 PM -- 3:30 PM   | **Breakout groups**: Modeling head-direction populations with NeMoS         |
-| 3:30 PM -- 4:00 PM   | Coffee Break                                                                |
-| 4:30 PM -- 6:00 PM   | **Breakout groups**: Analyzing Calcium Imaging data with Pynapple and NeMoS |
-| 6:00 PM -- 8:00 PM   | Dinner at Casa Carmen, 5 W 21st St, New York                                |
-
-#note: tomorrow is all Generalized Linear Models, all day. We'll start off with Edoardo giving an conceptual overview of the GLM, then I'll walk you through a simple example with some data from the Allen Brain Observatory, Edoardo will come back to walk you through a more involved example with head-direction tuned neurons, then I'll finish the day by discussing how to use nemos with scikit-learn to do model selection and cross-validation
-
----
-## Day 3
-
-| Time                 | Event                                                                                                |
-|----------------------|------------------------------------------------------------------------------------------------------|
-| 9:00 AM -- 10:00 AM  | Breakfast                                                                                            |
-| 10:00 AM -- 10:30 AM | plenoptic advertisement                                                                              |
-| 10:30 AM -- 11:00 AM | Pynapple Advanced                                                                                    |
-| 11:00 AM -- 11:30 AM | Coffee Break                                                                                         |
-| 11:30 PM -- 1:00 PM  | **Breakout groups**: analyze place cells                                                             |
-| 1:00 PM -- 2:00 PM   | Lunch                                                                                                |
-| 2:00 PM -- 3:30 PM   | Model and Feature selection with place cell data                                                     |
-| 3:30 PM -- 4:00 PM   | Coffee Break                                                                                         |
-| 4:00 PM -- 6:00 PM   | **Choose Your Own Adventure**: bring your own data / analyze Allen Institute's Visual Coding dataset |
-| 6:00 PM -- 8:00 PM   | Dinner at Barlume, 900 Broadway, New York                                                            |
+| 9 -- 10am               | Breakfast                                                                                                                    |
+| 10 -- 10:30am           | "Neuroinformatics Unit: Building Community-Driven Software for Neuroscience", Adam Tyson                                     |
+| 10:30 -- 11am           | Advanced Pynapple and Pynaviz (Guillaume)                                                                                    |
+| 11 -- 11:30am           | Coffee break                                                                                                                 |
+| 11:30am -- 1pm          | **Group project**: Analyzing hippocampal place cells with Pynapple and NeMoS                                                 |
+| 1 -- 2pm                | Lunch                                                                                                                        |
+| 2 -- 2:30pm             | Intro to GLM-HMM (Sarah Jo)                                                                                                  |
+| 2:30 -- 3:30pm          | GLM-HMM guided tour (Camila)                                                                                                 |
+| 3:30 -- 4pm             | Coffee break                                                                                                                 |
+| 4 -- 6pm                | Finish earlier notebooks, **Group project**: Exploring the Allen Institute's Visual Coding dataset, or Analyze Your Own Data |
+| 6:30 -- 8pm             | Dinner                                                                                                                       |
 
 ---
 
@@ -162,13 +140,11 @@ we have folks with a range of neuroscience backgrounds and programming/python sk
 
 ---
 
-## CITE YOUR SOFTWARE!
-
----
-
 <img data-src="/assets/defense-blackhole.svg"></img>
 
-#note: To take one particularly illustrative example: I'm sure many of you recognize this picture. It's an image of supermassive black hole M87, captured by the Event Horizon Telescope Collaboration in April 2019
+#note: to finish up, I'd like to tell you a brief parable about the importance of open source software for science.
+
+I'm sure many of you recognize this picture. It's an image of supermassive black hole M87, captured by the Event Horizon Telescope Collaboration in April 2019
 
 ---
 
@@ -188,12 +164,12 @@ the work that went into this was done with a variety of packages from the open-s
 
 ## CITE YOUR SOFTWARE!
 
+#note: so please, when you write up your results, cite the software that you used. it makes it easier for people like us, maintainers of scientific software packages, to go to our bosses and scientific funding bodies and argue for the value of the work in developing and maintaining these packages.
+
 ---
 
 ## one link to rule them all
 
-[https://neurorse.flatironinstitute.org/workshops/feb-2026.html](https://neurorse.flatironinstitute.org/workshops/feb-2026.html)
+[https://neurorse.flatironinstitute.org/workshops/fens-2026.html](https://neurorse.flatironinstitute.org/workshops/fens-2026.html)
 
 #note: Finally, I'm going to leave this up here for a bit. You've gotten this link on the slack, you've gotten this in your email, but one more time. This page has links to the slides of all the presentations you'll see, as well as to the workshop schedule and the github page that has the setup instructions and all the notebooks we'll be working through on this workshop.
-
-Any questions before I pass things off to Heberto to talk about NWB?
