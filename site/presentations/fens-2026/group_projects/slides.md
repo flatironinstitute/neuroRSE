@@ -1,6 +1,6 @@
 # Group projects
 
-![image](/assets/jan2025-banner.svg)
+![image](/assets/fens2026-banner.svg)
 
 #note: welcome back everyone, last session of the day
 - guinea pigs, give us feedback
@@ -41,23 +41,18 @@
 
 ## Day 1 Pairs
 
-- Juan Pablo Marquez Gutierrez, Alexandra Sokolowski
-- Ariana Tortolani, Aya Akhmetzhanova
-- Daniel Woods, Destynie Medeiros
-- Morgan Corniquel, Mutian Li
-- Rebecca Suthard, Ruotong Li
-- Siyu Wang, Sukriti Gupta
-- Leandro Aguiar, Andrea Cumpelik
-- Archit Gupta, Arthur Prat-Carrabin
-- Autumn Mallory, Bridgette Gifford
-- Charles Huang, Guoning Yu
-- Jiahuan Liu, Kai Ding
-- Kayla Vokt, Per-Niklas Barth
-- Skyler Thomas, Srividya Pattisapu
-- Wynne Stagnaro, Yunchang Zhang
-- Kathleen Esfahany, Peter Hogg
-- Nilesh Jain
-
+- Junying Wang, Rebecca Uzzi
+- Nuo Dong, Y. Dilara Parry
+- Chi-Yu Lee, Scott Yun Ye
+- Carlos Gomez, Antonio Lee
+- Carlos Gabriel Aguilar Perez , Maria Diamantaki
+- Jorge Cabrera-Moreno, Tousif Jamal
+- Dimitrios Chalkiadakis, Araceli Seiffe
+- Alireza Saeedi, Yiming Zhao
+- Martin Blazsek, Akseli Ilmanen
+- Mingcan Yu, Alireza Karami
+- El Kalache Georges, Izabela Lima Paiva
+- Andrei Kondakov, Jiameng Wu
 <!-- .element: class="two-columns-text" -->
 
 #note: we'll send in slack as well but here are the pairs
@@ -65,46 +60,18 @@
 ---
 
 ## Day 2 Pairs
-- Morgan Corniquel, Ruotong Li
-- Aya Akhmetzhanova, Destynie Medeiros
-- Daniel Woods, Mutian Li
-- Ariana Tortolani, Siyu Wang
-- Rebecca Suthard, Juan Pablo Marquez Gutierrez
-- Alexandra Sokolowski, Sukriti Gupta
-- Leandro Aguiar, Yunchang Zhang
-- Per-Niklas Barth, Arthur Prat-Carrabin
-- Wynne Stagnaro, Srividya Pattisapu
-- Skyler Thomas, Jiahuan Liu
-- Andrea Cumpelik, Guoning Yu
-- Bridgette Gifford, Kai Ding
-- Charles Huang, Kayla Vokt
-- Autumn Mallory, Archit Gupta
-- Kathleen Esfahany, Nilesh Jain
-- Peter Hogg
-
-<!-- .element: class="two-columns-text" -->
-
-#note: we'll send in slack as well but here are the pairs
-
----
-
-## Day 3 Pairs
-- Ariana Tortolani, Rebecca Suthard
-- Daniel Woods, Alexandra Sokolowski
-- Ruotong Li, Morgan Corniquel
-- Juan Pablo Marquez Gutierrez, Sukriti Gupta
-- Siyu Wang, Aya Akhmetzhanova
-- Destynie Medeiros, Mutian Li
-- Autumn Mallory, Kai Ding
-- Skyler Thomas, Arthur Prat-Carrabin
-- Guoning Yu, Archit Gupta
-- Leandro Aguiar, Wynne Stagnaro
-- Kayla Vokt, Andrea Cumpelik
-- Per-Niklas Barth, Yunchang Zhang
-- Charles Huang, Jiahuan Liu
-- Srividya Pattisapu, Bridgette Gifford
-- Nilesh Jain, Peter Hogg
-- Kathleen Esfahany
+- Chi-Yu Lee, Y. Dilara Parry
+- Rebecca Uzzi, Nuo Dong
+- Junying Wang, Scott Yun Ye
+- Mingcan Yu, Carlos Gabriel Aguilar Perez 
+- Alireza Karami, Akseli Ilmanen
+- Araceli Seiffe, El Kalache Georges
+- Dimitrios Chalkiadakis, Tousif Jamal
+- Martin Blazsek, Antonio Lee
+- Andrei Kondakov, Jorge Cabrera-Moreno
+- Yiming Zhao, Izabela Lima Paiva
+- Alireza Saeedi, Jiameng Wu
+- Maria Diamantaki, Carlos Gomez
 
 <!-- .element: class="two-columns-text" -->
 
