@@ -17,7 +17,7 @@ Website for Flatiron CCN's NeuroRSE group
   `site/_posts/2023-11-17-summer-2024-internship.md` for an example).
   
 > [!CAUTION]
-> Note that their must be a hyphen `-`, not an underscore `_` between the date and post title!
+> Note that there must be a hyphen `-`, not an underscore `_` between the date and post title!
 
 ## Building locally
 
