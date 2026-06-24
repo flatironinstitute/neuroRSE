@@ -84,20 +84,20 @@ Since I'm standing up here, I'll go first: I'm Billy Broderick, I'm one of the m
 ---
 ## Day 1
 
-| Time                 | Event                                                                             |
-|----------------------|-----------------------------------------------------------------------------------|
-| 9 -- 10am               | Breakfast                                                                                                                    |
-| 10 -- 10:30am           | Welcome                                                                                                                      |
-| 10:30 -- 11:15am        | Introduction to Pynapple (Guillaume)                                                                                         |
-| 11:15 -- 11:45am        | Coffee break                                                                                                                 |
-| 11:45am -- 12:30pm      | Pynapple API guided tour (Sarah Jo)                                                                                          |
-| 12:30 -- 1pm            | [Plenoptic](https://plenoptic.org) advertisement                                                                             |
-| 1 -- 2pm                | Lunch                                                                                                                        |
-| 2 -- 2:45pm             | Conceptual Introduction to Generalized Linear Models (Edoardo)                                                               |
-| 2:45 -- 4pm             | Fitting Basic GLMs with NeMoS (Billy)                                                                                        |
-| 4 -- 4:30pm             | Coffee break                                                                                                                 |
-| 4:30 -- 6pm             | **Group project**: Analyzing single head-direction neuron with Pynapple & Nemos (+ Calcium imaging)                          |
-| 6 -- 8pm                | Dinner                                                                                                                       |
+| Time               | Event                                                                                               |
+|--------------------|-----------------------------------------------------------------------------------------------------|
+| 9 -- 10am          | Breakfast                                                                                           |
+| 10 -- 10:30am      | Welcome                                                                                             |
+| 10:30 -- 11:15am   | Introduction to Pynapple (Guillaume)                                                                |
+| 11:15 -- 11:45am   | Coffee break                                                                                        |
+| 11:45am -- 12:30pm | Pynapple API guided tour (Sarah Jo)                                                                 |
+| 12:30 -- 1pm       | [Plenoptic](https://plenoptic.org) advertisement                                                    |
+| 1 -- 2pm           | Lunch                                                                                               |
+| 2 -- 2:45pm        | Conceptual Introduction to Generalized Linear Models (Edoardo)                                      |
+| 2:45 -- 4pm        | Fitting Basic GLMs with NeMoS (Billy)                                                               |
+| 4 -- 4:30pm        | Coffee break                                                                                        |
+| 4:30 -- 6pm        | **Group project**: Analyzing single head-direction neuron with Pynapple & Nemos (+ Calcium imaging) |
+| 6:30pm             | Dinner at Finca Nebot                                                                               |
 
 #note: Excellent. so, up next, we're going to hear from Ben talking about the NWB data standard, then the rest of the day will be Guillaume and Sarah Jo talking about pynapple, alternating between presentations and hands-on exercises.
 
@@ -106,19 +106,19 @@ if you don't have your installation working now, come find one of us at the coff
 ---
 ## Day 2
 
-| Time                 | Event                                                                       |
-|----------------------|-----------------------------------------------------------------------------|
-| 9 -- 10am               | Breakfast                                                                                                                    |
-| 10 -- 10:30am           | "Neuroinformatics Unit: Building Community-Driven Software for Neuroscience", Adam Tyson                                     |
-| 10:30 -- 11am           | Advanced Pynapple and Pynaviz (Guillaume)                                                                                    |
-| 11 -- 11:30am           | Coffee break                                                                                                                 |
-| 11:30am -- 1pm          | **Group project**: Analyzing hippocampal place cells with Pynapple and NeMoS                                                 |
-| 1 -- 2pm                | Lunch                                                                                                                        |
-| 2 -- 2:30pm             | Intro to GLM-HMM (Sarah Jo)                                                                                                  |
-| 2:30 -- 3:30pm          | GLM-HMM guided tour (Camila)                                                                                                 |
-| 3:30 -- 4pm             | Coffee break                                                                                                                 |
-| 4 -- 6pm                | Finish earlier notebooks, **Group project**: Exploring the Allen Institute's Visual Coding dataset, or Analyze Your Own Data |
-| 6:30 -- 8pm             | Dinner                                                                                                                       |
+| Time           | Event                                                                                                                        |
+|----------------|------------------------------------------------------------------------------------------------------------------------------|
+| 9 -- 10am      | Breakfast                                                                                                                    |
+| 10 -- 10:30am  | "Neuroinformatics Unit: Building Community-Driven Software for Neuroscience", Adam Tyson                                     |
+| 10:30 -- 11am  | Advanced Pynapple and Pynaviz (Guillaume)                                                                                    |
+| 11 -- 11:30am  | Coffee break                                                                                                                 |
+| 11:30am -- 1pm | **Group project**: Analyzing hippocampal place cells with Pynapple and NeMoS                                                 |
+| 1 -- 2pm       | Lunch                                                                                                                        |
+| 2 -- 2:30pm    | Intro to GLM-HMM (Sarah Jo)                                                                                                  |
+| 2:30 -- 3:30pm | GLM-HMM guided tour (Camila)                                                                                                 |
+| 3:30 -- 4pm    | Coffee break                                                                                                                 |
+| 4 -- 6pm       | Finish earlier notebooks, **Group project**: Exploring the Allen Institute's Visual Coding dataset, or Analyze Your Own Data |
+| 6:30pm         | Dinner at Racó de la Vila                                                                                                                       |
 
 ---
 
