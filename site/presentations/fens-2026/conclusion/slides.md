@@ -1,6 +1,6 @@
 # Flatiron CCN Software workshop
 
-![image](/assets/jan2025-banner.svg)
+![image](/assets/fens2026-banner.svg)
 
 #note: thanks everyone for coming to this workshop!
 
@@ -68,10 +68,9 @@ https://us-rse.org
 ![](/assets/us-rse.png)
 
 ---
-## Doing this again in July at FENS
+## Doing this again next February in New York
 
-### Applications open in March! <!-- .element: style="margin-top:1%;margin-bottom:2%;text-align:center" -->
-### (For applicants based in Europe / Africa) <!-- .element: style="margin-top:1%;margin-bottom:2%;text-align:center" -->
+### Applications open this fall! <!-- .element: style="margin-top:1%;margin-bottom:2%;text-align:center" -->
 
 #note: we run these workshops regularly, and we'll have another one in February. details can be found on our website or at this qr code -- if you found this workshop valuable, please let your friends and labmates know. applications close next Thursday, so don't delay!
 
@@ -79,8 +78,8 @@ https://us-rse.org
 ## Fill out survey!
 
 <p style="margin-top:1%;margin-bottom:2%;text-align:center">
-<a href="https://neurorse.flatironinstitute.org/feb26-feedback/">https://neurorse.flatironinstitute.org/feb26-feedback/</a>
+<a href="https://neurorse.flatironinstitute.org/fens26-feedback/">https://neurorse.flatironinstitute.org/fens26-feedback/</a>
 </p>
 
-![https://neurorse.flatironinstitute.org/feb26-feedback/](/assets/feb-2026/feb26-feedback-qr.png)
+![https://neurorse.flatironinstitute.org/fens26-feedback/](/assets/fens-2026/fens26-feedback-qr.png)
 
