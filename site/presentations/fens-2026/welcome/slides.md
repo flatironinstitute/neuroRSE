@@ -104,6 +104,13 @@ uv run python scripts/check_setup.py
 
 </div>
 
+<div class="overlap-item overlap-center" data-animate data-load="/assets/fens-2026/unix.svg">
+<!-- {"setup": [
+{"element": "#g2", "modifier": "attr", "parameters": [ {"class": "fragment appear", "data-fragment-index": "0"} ]},
+{"element": "#rect1", "modifier": "attr", "parameters": [ {"class": "fragment appear", "data-fragment-index": "0"} ]}
+]} -->
+</div>
+
 ---
 
 ## Workshop staff

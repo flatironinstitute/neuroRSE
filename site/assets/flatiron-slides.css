@@ -503,3 +503,28 @@ div.two-column {
   visibility: hidden;
 }
 
+
+.reveal .overlap-parent {
+  position: relative;
+  height: 100%;
+}
+.reveal .overlap-code-grid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(0, -50%);
+}
+.reveal .overlap-item svg {
+  max-height: none;
+  max-width: none;
+}
+.reveal .overlap-item {
+  background: none;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  height: 100%;
+}
+.reveal .overlap-center {
+  top: 50%;
+  left: 50%;
+}

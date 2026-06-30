@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="unix.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <clipPath
+       id="p5db4f7b7e1">
+      <rect
+         x="395.24368"
+         y="74.507896"
+         width="105.5042"
+         height="105.5042"
+         id="rect2096" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.62860312"
+     inkscape:cx="1449.2451"
+     inkscape:cy="1070.6278"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="941"
+     inkscape:window-height="1032"
+     inkscape:window-x="5763"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.501626;stroke:none"
+       id="rect1"
+       width="1923.312"
+       height="1083.3545"
+       x="-3.1816578"
+       y="-1.5908289"
+       transform="translate(0,11.249983)" />
+    <g
+       id="g2">
+      <g
+         id="g9-6"
+         transform="translate(-281.25592,114.69724)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:bevel"
+           id="rect6-9-5"
+           width="737.51184"
+           height="306.80496"
+           x="850.55798"
+           y="88.332581"
+           transform="translate(21.942016,194.81768)" />
+      </g>
+      <g
+         id="g1"
+         transform="translate(461.70998,65.262118)">
+        <text
+           xml:space="preserve"
+           style="font-size:46.6667px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-decoration-color:#000000;white-space:pre;inline-size:872.58;display:inline;fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round"
+           x="1095.5632"
+           y="483.30804"
+           id="text4-84-6-1-7"
+           transform="translate(-937.06205,-10.193597)"><tspan
+             x="1095.5632"
+             y="483.30804"
+             id="tspan3"><tspan
+               style="stroke:none"
+               id="tspan1">• Simple
+</tspan></tspan><tspan
+             x="1095.5632"
+             y="541.64142"
+             id="tspan5"><tspan
+               style="stroke:none"
+               id="tspan4">• Compact
+</tspan></tspan><tspan
+             x="1095.5632"
+             y="599.97476"
+             id="tspan7"><tspan
+               style="stroke:none"
+               id="tspan6">• Clear</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:46.6667px;line-height:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-decoration-color:#000000;white-space:pre;inline-size:872.58;display:inline;fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round"
+           x="1095.5632"
+           y="483.30804"
+           id="text4-84-6-1-7-3"
+           transform="translate(-600.90477,-10.193597)"><tspan
+             x="1095.5632"
+             y="483.30804"
+             id="tspan9"><tspan
+               style="stroke:none"
+               id="tspan8">• Modular
+</tspan></tspan><tspan
+             x="1095.5632"
+             y="541.64142"
+             id="tspan11"><tspan
+               style="stroke:none"
+               id="tspan10">• Extensible</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:1.5;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-decoration-color:#000000;word-spacing:0px;white-space:pre;fill:#000000;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:bevel"
+           x="583.18805"
+           y="688.88617"
+           id="text19-7"
+           transform="translate(-85.684166,-291.89666)"><tspan
+             sodipodi:role="line"
+             id="tspan19-0"
+             x="583.18805"
+             y="688.88617"
+             style="text-align:center;text-anchor:middle">Unix philosophy of software</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
