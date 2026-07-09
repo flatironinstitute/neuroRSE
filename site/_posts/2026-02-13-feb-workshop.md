@@ -2,6 +2,7 @@
 layout: post
 title: "February 2026 Neural Data Analysis Software Workshop"
 categories: events
+tags: past
 ---
 
 This February, the NeuroRSE group at [CCN](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) ran a software workshop training scientists how to use [pynapple](https://pynapple.org/) and [nemos](https://nemos.readthedocs.io/en/latest/) to analyze neuroscience data! We had just over 30 participants, ranging from postbacs to postdocs.
