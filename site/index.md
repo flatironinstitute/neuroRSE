@@ -34,6 +34,11 @@ You can get in touch with us at `neurorse [at] flatironinstitute.org`
 
 # Interns
 
+## 2026
+
+{% assign members = "meyer,wong,zhu" | split: "," %}
+{% include people_list.html people=members header_lvl="h3"%}
+
 ## 2025
 
 {% assign members = "de-wulf,crespo-darriba,maura" | split: "," %}
